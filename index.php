@@ -10,12 +10,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">  
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css/myStyle.css">
+  <style rel="stylesheet">
+    @media all and (max-width:400px){
+      figure{
+        display:block;
+      }
+      
+    }
+    @media all and (min-width:1250px){
+      figure{
+        display:none;
+      }
+      
+    }
+
+
+     @media all and (min-width:1250px ){
+      #topo{
+        display:block;
+      }
+      
+    }
+    @media all and (max-width:990px){
+      #topo{
+        display:none;
+        height: 400px;
+      }
+      
+    }
+
+    }
+    @media all and (max-width:990px){
+     section{
+       height: 1000px;
+      }
+      
+    }
+  </style>
 </head>
 <body>
 <main class="container-fluid col bg-primary">
 <!-- inicio do Menu -->  
-	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	   <nav class="navbar navbar-expand-lg navbar-light bg-light">
+     <figure>
         <img src="./img/topo/capa1.png" width="300" height="160%" class="d-inline-block align-top img-fluid" alt="">
+      </figure>  
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -38,7 +77,9 @@
         </div>
 
       </nav>
-      <img src="./img/topo/capa1.png" width="100%" height="100%" class="align-top img-fluid" alt="Compra e Vendo Meio do Mundo">
+      <figure id="topo">
+        <img src="./img/topo/capa1.png" width="100%" height="100%" class="align-top img-fluid" alt="Compra e Vendo Meio do Mundo">
+      </figure>
       <!-- Fim do Menu --> 
       <!-- Inicio Topo -->
       <section id="carousel" class="container-fluid col-10">

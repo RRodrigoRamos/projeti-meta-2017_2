@@ -9,10 +9,11 @@ Após escolhe o lugar você deve clonar o repositorio
 
 git clone https://github.com/RRodrigoRamos/projeti-meta-2017_2.git
 
-#1. git pull origin master  (( Esse comando só funciona dentro da pasta que você usou o "git init" ))
-#2. git add .
-#3. git commit -m "No da Alteração feita"
-#4. git push origin master
+    1. git pull origin master  (( Esse comando só funciona dentro da pasta que você usou o "git init" ))
+    2. git add .
+    3. git commit -m "No da Alteração feita"
+    4. git push origin master
+    
     O git vai pedir usuário e senha, o mesmo criado no github
 
 Pronto creio que feito isso apos o Commit no console aparecer algo como CREATE ......... .alguma coisa quer dizer que funcionou 

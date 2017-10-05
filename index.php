@@ -46,6 +46,27 @@
       }
       
     }
+    @media all and (max-width: 1500px){
+    .direita{
+      margin-left: 18pc;
+      
+    }
+  }
+
+    @media all and (max-width: 990px){
+    .direita{
+     margin-left: 0;
+    
+    }
+  }
+
+  @media all and (max-width: 900px){
+    .pesquisa{
+      display: none;
+    }
+  }
+
+
   </style>
 </head>
 <body>
@@ -67,9 +88,9 @@
             <a class="nav-item nav-link" href="./contact.html">Eletrôdomesticos</a>
             <a class="nav-item nav-link" href="./contact.html">Imovéis</a>
             <a class="nav-item nav-link" href="./contact.html">Cadastro</a>
-          <form class="form-inline my-2 my-lg-0">
+          <form class="form-inline my-2 my-lg-0 direita">
             <input class="form-control mr-sm-2" type="text" placeholder=" Pesquisar" aria-label="Search">
-              <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisa</button>
+              <button class="btn btn-outline-success my-2 my-sm-0 pesquisa" type="submit">Pesquisa</button>
           </form>
 
           </div>
@@ -80,7 +101,8 @@
       <figure id="topo">
         <img src="./img/topo/capa1.png" width="100%" height="100%" class="align-top img-fluid" alt="Compra e Vendo Meio do Mundo">
       </figure>
-      <!-- Fim do Menu --> 
+      <!-- Fim do Menu -->
+
       <!-- Inicio Topo -->
       <section id="carousel" class="container-fluid col-10">
           <div id="carouselExampleIndicators" class="carousel slide " data-ride="carousel">
@@ -110,7 +132,9 @@
           </a>
         </div>
       </section>
-      <!-- Fim topo -->  
+      <!-- Fim topo -->
+
+
 </main>
 <script src="js/jquery-3.2.1.slim.min.js"></script>
     <script src="js/popper.min.js"></script>

@@ -11,7 +11,6 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css/myStyle.css">
   <link rel="stylesheet" href="css/index.css">
-
 </head>
 <body>
 <main class="container-fluid col bg-primary">

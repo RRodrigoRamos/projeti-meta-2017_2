@@ -1,0 +1,59 @@
+
+    @media all and (max-width:400px){
+      figure{
+        display:block;
+      }
+      
+    }
+    @media all and (min-width:1250px){
+      figure{
+        display:none;
+      }
+      
+    }
+
+
+     @media all and (min-width:1250px ){
+      #topo{
+        display:block;
+      }
+      
+    }
+    @media all and (max-width:990px){
+      #topo{
+        display:none;
+        height: 400px;
+      }
+      
+    }
+
+    }
+    @media all and (max-width:990px){
+     section{
+       height: 1000px;
+       border: 1px solid;
+      }
+      
+    }
+    @media all and (max-width: 1500px){
+    .direita{
+      margin-left: 18pc;
+      
+    }
+  }
+
+    @media all and (max-width: 990px){
+    .direita{
+     margin-left: 0;
+    
+    }
+  }
+
+  @media all and (max-width: 900px){
+    .pesquisa{
+      display: none;
+    }
+  }
+
+
+ 

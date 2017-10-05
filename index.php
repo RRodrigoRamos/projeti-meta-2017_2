@@ -10,43 +10,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">  
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css/myStyle.css">
-  <style rel="stylesheet">
-    @media all and (max-width:400px){
-      figure{
-        display:block;
-      }
-      
-    }
-    @media all and (min-width:1250px){
-      figure{
-        display:none;
-      }
-      
-    }
+  <link rel="stylesheet" href="css/index.css">
 
-
-     @media all and (min-width:1250px ){
-      #topo{
-        display:block;
-      }
-      
-    }
-    @media all and (max-width:990px){
-      #topo{
-        display:none;
-        height: 400px;
-      }
-      
-    }
-
-    }
-    @media all and (max-width:990px){
-     section{
-       height: 1000px;
-      }
-      
-    }
-  </style>
 </head>
 <body>
 <main class="container-fluid col bg-primary">
@@ -67,9 +32,9 @@
             <a class="nav-item nav-link" href="./contact.html">Eletrôdomesticos</a>
             <a class="nav-item nav-link" href="./contact.html">Imovéis</a>
             <a class="nav-item nav-link" href="./contact.html">Cadastro</a>
-          <form class="form-inline my-2 my-lg-0">
+          <form class="form-inline my-2 my-lg-0 direita">
             <input class="form-control mr-sm-2" type="text" placeholder=" Pesquisar" aria-label="Search">
-              <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisa</button>
+              <button class="btn btn-outline-success my-2 my-sm-0 pesquisa" type="submit">Pesquisa</button>
           </form>
 
           </div>
@@ -80,7 +45,8 @@
       <figure id="topo">
         <img src="./img/topo/capa1.png" width="100%" height="100%" class="align-top img-fluid" alt="Compra e Vendo Meio do Mundo">
       </figure>
-      <!-- Fim do Menu --> 
+      <!-- Fim do Menu -->
+
       <!-- Inicio Topo -->
       <section id="carousel" class="container-fluid col-10">
           <div id="carouselExampleIndicators" class="carousel slide " data-ride="carousel">
@@ -110,7 +76,9 @@
           </a>
         </div>
       </section>
-      <!-- Fim topo -->  
+      <!-- Fim topo -->
+
+
 </main>
 <script src="js/jquery-3.2.1.slim.min.js"></script>
     <script src="js/popper.min.js"></script>

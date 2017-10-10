@@ -53,6 +53,10 @@
     width: 100%;
     min-height:900px;
   }
+
+  nav a:hover {
+    background-color: red;
+  }
 /*Controlando o banner de propaganda dos produtos*/
   section#carousel{
   	box-sizing:border-box;
@@ -66,4 +70,8 @@
     min-height:20%;
     height:300px;
     background-color: black;
+  }
+/*rodapé diversos*/
+  footer {
+    width:100%
   }

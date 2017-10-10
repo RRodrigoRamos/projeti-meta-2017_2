@@ -7,18 +7,18 @@
     <meta name="description" content="Site de vendas...">
     <link rel="icon" href="img/amapa.png" type="image/x-icon"/>
     <link rel="shortcut icon" href="img/amapa.png" type="image/x-icon"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">  
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css/myStyle.css">
   <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
 <main class="container-fluid col bg-primary">
-<!-- inicio do Menu -->  
+<!-- inicio do Menu -->
 	   <nav class="navbar navbar-expand-lg navbar-light bg-light">
      <figure>
         <img src="./img/topo/capa1.png" width="300" height="160%" class="d-inline-block align-top img-fluid" alt="">
-      </figure>  
+      </figure>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -37,7 +37,7 @@
           </form>
 
           </div>
-            
+
         </div>
 
       </nav>

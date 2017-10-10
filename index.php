@@ -24,13 +24,22 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <a class="nav-item nav-link active" href="./index.php">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link active" href="./index.php">HOME <span class="sr-only">(current)</span></a>
             <a class="nav-item nav-link" href="./pg/acessorios.php">Acessórios</a>
             <a class="nav-item nav-link" href="./pg/automotivos.php">Automtivos</a>
             <a class="nav-item nav-link" href="./pg/eletronicos.php">Eletrônicos</a>
             <a class="nav-item nav-link" href="./pg/eletrodomesticos.php">Eletrôdomesticos</a>
             <a class="nav-item nav-link" href="./pg/imoveis.php">Imovéis</a>
-            <a class="nav-item nav-link" href="./pg/login.php">Login</a>
+						<!-- subitens do menu -->
+							<li class="nav-item dropdown">
+        				<a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          			LOGIN
+        			</a>
+        					<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          					<a class="dropdown-item" href="#">Entra</a>
+          					<a class="dropdown-item" href="#">Cadastro</a>
+        					</div>
+      			</li>
 							<!-- botao de pesquisa no menu -->
 							<form class="form-inline my-2 my-lg-0 direita">
 		            <input class="form-control mr-sm-2" type="text" placeholder=" Pesquisar" aria-label="Search">

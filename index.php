@@ -79,16 +79,16 @@
             <span class="sr-only">Next</span>
           </a>
         </div>
-      </section><!-- Fim topo -->
-		</header> <!-- inicio conteudo -->
-		<article>
+      </section>
+		</header><!-- Fim topo -->
+		<article><!-- inicio conteudo -->
 
 
 
-		</article>	<!-- fim conteudo -->
+		</article><!-- fim conteudo -->
 		<footer> <!-- inicio rodape -->
-
-		</footer>
+				
+		</footer><!--Fim Rodapá -->
 </main>
 	<script src="js/jquery-3.2.1.slim.min.js"></script>
   <script src="js/popper.min.js"></script>

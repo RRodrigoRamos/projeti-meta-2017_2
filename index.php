@@ -26,13 +26,13 @@
           <div class="navbar-nav">
             <a class="nav-item nav-link active" href="./index.php">HOME <span class="sr-only">(current)</span></a>
             <a class="nav-item nav-link" href="./pg/acessorios.php">Acessórios</a>
-            <a class="nav-item nav-link" href="./pg/automotivos.php">Automtivos</a>
+            <a class="nav-item nav-link" href="./pg/automotivos.php">Automotivos</a>
             <a class="nav-item nav-link" href="./pg/eletronicos.php">Eletrônicos</a>
             <a class="nav-item nav-link" href="./pg/eletrodomesticos.php">Eletrôdomesticos</a>
             <a class="nav-item nav-link" href="./pg/imoveis.php">Imovéis</a>
 						<!-- subitens do menu -->
 							<li class="nav-item dropdown">
-        				<a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           			LOGIN
         			</a>
         					<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -41,7 +41,7 @@
         					</div>
       			</li>
 							<!-- botao de pesquisa no menu -->
-							<form class="form-inline my-2 my-lg-0 direita">
+							<form class="form-inline my-2 my-lg-0 direitad">
 		            <input class="form-control mr-sm-2" type="text" placeholder=" Pesquisar" aria-label="Search">
 		              <button class="btn btn-outline-success my-2 my-sm-0 pesquisa" type="submit">Pesquisa</button>
 		          </form>
@@ -82,6 +82,8 @@
       </section><!-- Fim topo -->
 		</header> <!-- inicio conteudo -->
 		<article>
+
+
 
 		</article>	<!-- fim conteudo -->
 		<footer> <!-- inicio rodape -->

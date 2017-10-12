@@ -11,13 +11,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" type="text/css" media="all" href="css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" media="screen" href="css/index.css">
+	<link href="https://fonts.googleapis.com/css?family=Noto+Serif" rel="stylesheet">
 </head>
 <body>
 <main class="container-fluid col bg-primary">	<!-- principal -->
 	<header><!-- inicio do Menu -->
   	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 	     <figure>
-	        <img src="./img/topo/capa.png" width="300px" height="160px" class="d-inline-block align-top img-fluid" alt="">
+	        <img src="./img/topo/capa.png" width="300px" height="160px" class="d-inline-block align-top img-fluid" alt="Compra e Venda - MEIO DO MUNDO">
 	      </figure>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -41,7 +42,7 @@
         					</div>
       			</li>
 							<!-- botao de pesquisa no menu -->
-							<form class="form-inline my-2 my-lg-0 direitad">
+							<form class="form-inline my-2 my-lg-0 direita">
 		            <input class="form-control mr-sm-2" type="text" placeholder=" Pesquisar" aria-label="Search">
 		              <button class="btn btn-outline-success my-2 my-sm-0 pesquisa" type="submit">Pesquisa</button>
 		          </form>
@@ -52,7 +53,7 @@
         <img src="./img/topo/capa1.png" width="100%" height="100%" class="align-top img-fluid" alt="Compra e Vendo Meio do Mundo">
       </figure>
       <!-- Inicio Topo -->
-      <section id="carousel" class="container-fluid col-10">
+      <section id="carousel" class="container-fluid">
           <div id="carouselExampleIndicators" class="carousel slide " data-ride="carousel">
               <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -64,10 +65,10 @@
                 <img class="d-block img-fluid align-middle" src="img/02.jpg" alt="First slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block img-fluid" src="img/03.jpg" alt="Second slide">
+                <img class="d-block img-fluid" src="img/home/teste1.jpg" alt="Second slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block img-fluid" src="img/01.jpg" alt="Third slide">
+                <img class="d-block img-fluid" src="img/home/teste2.jpg" alt="Third slide">
               </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -87,7 +88,7 @@
 
 		</article><!-- fim conteudo -->
 		<footer> <!-- inicio rodape -->
-				
+
 		</footer><!--Fim Rodapá -->
 </main>
 	<script src="js/jquery-3.2.1.slim.min.js"></script>

@@ -83,11 +83,85 @@
       </section>
 		</header><!-- Fim topo -->
 		<article id="conteudo"><!-- inicio conteudo -->
-			<<h1> PROPAGANDA SITE <small> Bem Vindo</small></h1>
+			<div class="bs-example">
+				<div class="row">
+					<div class="col-sm-6 col-md-4">
+						<div class="thumbnail">
+							<img data-src="holder.js/100%x100" alt="100% x200" style="height:100%; width: 100%; display: block;" src="img/rodape/teste.png" data-holder-rendered="true">
+						<div class="caption">
+							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[Nome do Produto]</font></font></h3>
+							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{descrição do Produto}</font><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
+							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
+							</font></a></p>
+						</div>
+					</div>
+				</div>
+					<div class="col-sm-6 col-md-4">
+						<div class="thumbnail">
+							<img data-src="holder.js/100%x100" alt="100% x200" style="height:100%; width: 100%; display: block;" src="img/rodape/teste.png" data-holder-rendered="true">
+						<div class="caption">
+							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[Nome do Produto]</font></font></h3>
+							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{descrição do Produto}</font><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
+							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
+							</font></a></p>
+						</div>
+					</div>
+				</div>
+					<div class="col-sm-6 col-md-4">
+						<div class="thumbnail">
+							<img data-src="holder.js/100%x100" alt="100% x200" style="height:100%; width: 100%; display: block;" src="img/rodape/meta.png" data-holder-rendered="true">
+						<div class="caption">
+							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Patrocinador</font></font></h3>
+							<p><font style="vertical-align: inherit;"></font> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Site Institucional</font>
+							</font></a></p>
+						</div>
+					</div>
+				</div>
+					<div class="col-sm-6 col-md-4">
+						<div class="thumbnail">
+							<img data-src="holder.js/100%x100" alt="100% x200" style="height:100%; width: 100%; display: block;" src="img/rodape/teste.png" data-holder-rendered="true">
+						<div class="caption">
+							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[Nome do Produto]</font></font></h3>
+							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{descrição do Produto}</font><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
+							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
+							</font></a></p>
+						</div>
+					</div>
+				</div>
+					<div class="col-sm-6 col-md-4">
+						<div class="thumbnail">
+							<img data-src="holder.js/100%x100" alt="100% x200" style="height:100%; width: 100%; display: block;" src="img/rodape/teste.png" data-holder-rendered="true">
+						<div class="caption">
+							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[Nome do Produto]</font></font></h3>
+							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{descrição do Produto}</font><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
+							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
+							</font></a></p>
+						</div>
+					</div>
+				</div>
+						<div class="col-sm-6 col-md-4">
+							<div class="thumbnail">
+								<img data-src="holder.js/100%x100" alt="100% x200" style="height:100%; width: 100%; display: block;" src="img/rodape/meta.png" data-holder-rendered="true">
+							<div class="caption">
+								<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Patrocinador</font></font></h3>
+								<p><font style="vertical-align: inherit;"></font> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Site Institucional</font>
+								</font></a></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</article><!-- fim conteudo -->
 		<span class="subaSite"> </span><!--botao de subi-->
+		<hr />
+
 		<footer> <!-- inicio rodape -->
-				<h1> CONTEUDO RODAPE </h1>
+			<h6>Macapá - AP, 13 de Outubro de 2017 </h6>
+			<p>Faculdade de Tecnologia do Estado do Amapá - META </p>
+			<a href="http://www.meta.edu.br/faculdade">Site Institucional</a>
+			<p>Projeti 4° Semestre - Sistema para Internet </p>
+			<a href="https://github.com/RRodrigoRamos/projeti-meta-2017_2">Repositorio GITHUB.COM</a>
+
 		</footer><!--Fim Rodapá -->
 </main>
 	<script src="js/jquery-3.2.1.slim.min.js"></script>

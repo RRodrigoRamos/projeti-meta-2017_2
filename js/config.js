@@ -14,14 +14,21 @@ $(function(){
     });
 });
 
+// Fazer uma transição suave na fixaçãdo menu
+
 // subir quando baixar..
-$(function(){
-  $('.subaSite').hide();
-  $(window).scroll(function(){
-    if($(this).scrollTop() > 100){
-      $('.subaSite').FadeIn();
-    }else{
-      $('.subaSite').FadeOut();
-      }
-    });
-});
+// $(function(){
+//   $('.subaSite').hide();
+//     $(window).scroll(function(){
+//       if($(this).scrollTop() > 200){
+//           $('.subaSite').fadeIn();
+//       }else{
+//           $('.subaSite').fadeOut();
+//         }
+//     });
+//     $('.subaSite').Click(function(){
+//       $(html,body).animate({
+//           scrollTop: 0
+//       },800);
+//     });
+// });

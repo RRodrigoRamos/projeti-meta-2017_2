@@ -14,9 +14,9 @@
 	<link href="https://fonts.googleapis.com/css?family=Noto+Serif" rel="stylesheet">
 </head>
 <body>
-<main class="container-fluid col bg-primary">	<!-- principal -->
+<main class="container-fluid col">	<!-- principal -->
 	<header><!-- inicio do Menu -->
-  	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  	<nav id="nav" class="navbar navbar-expand-lg navbar-light bg-light">
 	     <figure>
 	        <img src="./img/topo/capa.png" width="300px" height="160px" class="d-inline-block align-top img-fluid" alt="Compra e Venda - MEIO DO MUNDO">
 	      </figure>
@@ -42,10 +42,10 @@
         					</div>
       			</li>
 							<!-- botao de pesquisa no menu -->
-							<form class="form-inline my-2 my-lg-0 direita">
-		            <input class="form-control mr-sm-2" type="text" placeholder=" Pesquisar" aria-label="Search">
-		              <button class="btn btn-outline-success my-2 my-sm-0 pesquisa" type="submit">Pesquisa</button>
-		          </form>
+							<form class="form-inline my-lg-0 direita">
+		            <input class="form-control col-md-6" type="text" placeholder=" Pesquisa" aria-label="Search">
+		              <button class="btn btn-outline-success my-2" type="submit">PESQUISAR</button>
+							</form>
           </div>
         </div>
       </nav> <!-- Fim do Menu -->
@@ -53,7 +53,7 @@
         <img src="./img/topo/capa1.png" width="100%" height="100%" class="align-top img-fluid" alt="Compra e Vendo Meio do Mundo">
       </figure>
       <!-- Inicio Topo -->
-      <section id="carousel" class="container-fluid">
+      <section id="carousel" class="container-fluid col-sm-10">
           <div id="carouselExampleIndicators" class="carousel slide " data-ride="carousel">
               <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -62,10 +62,10 @@
             </ol>
           <div class="carousel-inner" role="listbox">
               <div class="carousel-item active">
-                <img class="d-block img-fluid align-middle" src="img/02.jpg" alt="First slide">
+                <img class="d-block img-fluid" src="img/home/teste5.jpg" alt="First slide">
               </div>
               <div class="carousel-item">
-                <img class="d-block img-fluid" src="img/home/teste1.jpg" alt="Second slide">
+                <img class="d-block img-fluid" src="img/home/teste4.jpg" alt="Second slide">
               </div>
               <div class="carousel-item">
                 <img class="d-block img-fluid" src="img/home/teste2.jpg" alt="Third slide">
@@ -82,17 +82,17 @@
         </div>
       </section>
 		</header><!-- Fim topo -->
-		<article><!-- inicio conteudo -->
-
-
-
+		<article id="conteudo"><!-- inicio conteudo -->
+			<<h1> PROPAGANDA SITE <small> Bem Vindo</small></h1>
 		</article><!-- fim conteudo -->
+		<span class="subaSite"> </span><!--botao de subi-->
 		<footer> <!-- inicio rodape -->
-
+				<h1> CONTEUDO RODAPE </h1>
 		</footer><!--Fim Rodapá -->
 </main>
 	<script src="js/jquery-3.2.1.slim.min.js"></script>
   <script src="js/popper.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
+	<script src="js/config.js"></script>
 </body>
 </html>

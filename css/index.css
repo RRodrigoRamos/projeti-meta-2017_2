@@ -136,25 +136,29 @@
   footer {
     width:100%;
     min-height:100px;
-    margin:10px auto !important;
+    margin:15px auto !important;
     text-align: center;
     clear:both;
   }
-
+/* estilizando o rodapé */
   footer p{
     margin:20px;
     font-family: 'Noto Serif', serif;
     font-size: 14pt;
   }
 
-  footer p:hover {
-    font-size:15pt;
-  }
 
 /*estilizando as redes sociais*/
-  .socialIcons{
-    width:50px !important;
-    height:50px!important;
-    float:left;
-    margin-left:10px !important;
+  .socialIcons {
+    width:100%;
+      }
+
+  .socialIcons li {
+    display:inline;
+    list-style-type:none;
+  }
+
+  .socialIcons li img {
+    width:40px !important;
+    vertical-align: middle;
   }

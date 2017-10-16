@@ -15,6 +15,7 @@
 </head>
 <body>
 <main class="container-fluid col">	<!-- principal -->
+	<span id="topoSite"> </span><!--botao de subi-->
 	<header><!-- inicio do Menu -->
   	<nav id="nav" class="navbar navbar-expand-lg navbar-light bg-light">
 	     <figure>
@@ -152,16 +153,17 @@
 				</div>
 			</div>
 		</article><!-- fim conteudo -->
-		<span class="subaSite"> </span><!--botao de subi-->
 		<hr />
-
+		<a href="#topoSite"> </a>
 		<footer> <!-- inicio rodape -->
-			<h6>Macapá - AP, 13 de Outubro de 2017 </h6>
-			<p>Faculdade de Tecnologia do Estado do Amapá - META </p>
-			<a href="http://www.meta.edu.br/faculdade">Site Institucional</a>
-			<p>Projeti 4° Semestre - Sistema para Internet </p>
-			<a href="https://github.com/RRodrigoRamos/projeti-meta-2017_2">Repositorio GITHUB.COM</a>
-
+				<ul class="socialIcons">
+						<li> Conecta-se a Nós </li>
+					  <li><a href="#"><img src="img/rodape/face.png" alt="facebook/projeti-meta"/></a></li>
+					  <li><a href="https://github.com/RRodrigoRamos/projeti-meta-2017_2"><img src="img/rodape/github1.png" alt="Repositorio do Projeto"/></a></li>
+					  <li><a href="#"><img src="img/rodape/email.png" alt="email/projeti-meta"/></a></li>
+					  <li><a href="http://www.meta.edu.br/faculdade/"><img src="img/rodape/meta2.png" alt="faculdade_meta"/></a></li>
+				</ul>
+				<span>Repositorio GitHub - Projeti</span>
 		</footer><!--Fim Rodapá -->
 </main>
 	<script src="js/jquery-3.2.1.slim.min.js"></script>

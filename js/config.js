@@ -16,19 +16,20 @@ $(function(){
 
 // Fazer uma transição suave na fixaçãdo menu
 
-// subir quando baixar..
+// // subir quando baixar..
 // $(function(){
-//   $('.subaSite').hide();
+//   $('#subaUp').hide();
 //     $(window).scroll(function(){
 //       if($(this).scrollTop() > 200){
-//           $('.subaSite').fadeIn();
+//           $('#subaUp').fadeIn();
 //       }else{
-//           $('.subaSite').fadeOut();
+//           $('#subaUp').fadeOut();
 //         }
 //     });
-//     $('.subaSite').Click(function(){
+//     $('#subaUp').Click(function(){
 //       $(html,body).animate({
 //           scrollTop: 0
 //       },800);
+//       return false;
 //     });
-// });
+});

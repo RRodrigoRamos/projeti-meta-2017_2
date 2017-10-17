@@ -72,6 +72,7 @@
     width:100%;
     box-shadow: 1px 2px 20px black;
     font-family: 'Noto Serif', serif;
+    font-size: 12pt;
     z-index:10;
   }
 /*fixando o menu apos a rolagem*/
@@ -99,12 +100,20 @@
   }
 /*controlando conteudo pg-principal*/
   article {
-    margin:10px;
+    margin:10px auto !important;
     padding:20px;
     width:100%;
     min-height:500px;
     box-shadow: 1px 10px 20px rgba(0, 28, 31, 0.33);
   }
+
+  /* Controlando conteudo */
+
+  div.thumbnail {
+    margin:20px auto !important;
+  }
+
+
 
   span.subaSite {
     width:50px;
@@ -136,15 +145,26 @@
   footer {
     width:100%;
     min-height:100px;
-    margin:15px auto !important;
-    text-align: center;
+    margin:30px auto !important;
+    text-align:right;
     clear:both;
   }
 /* estilizando o rodapé */
   footer p{
     margin:20px;
     font-family: 'Noto Serif', serif;
-    font-size: 14pt;
+    font-size: 10pt !important;
+    text-align: center;
+  }
+  footer div.left {
+    width:70%;
+    float:right;
+
+  }
+
+  footer div.dev {
+    display: block;
+    width:30%;
   }
 
 
@@ -160,5 +180,5 @@
 
   .socialIcons li img {
     width:40px !important;
-    vertical-align: middle;
+    vertical-align: middle !important;
   }

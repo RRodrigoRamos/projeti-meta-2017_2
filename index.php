@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>..::Compra&Venda Meio do Mundo::..</title>
-    <meta name="author" content="Anderson Cruz,Rodrigo Ramos, Weslley Dutra">
+    <meta name="author" content="Anderson Cruz,Rodrigo Ramos,Weslley Dutra">
     <meta name="description" content="Site de vendas...">
 		<meta name="keywords" content="1.Vendas,2 compras, venda e compra, Vender, vende, Comprar" />
     <link rel="icon" href="img/amapa.png" type="image/x-icon"/>
@@ -38,8 +38,8 @@
           			LOGIN
         			</a>
         					<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          					<a class="dropdown-item" href="#">Entra</a>
-          					<a class="dropdown-item" href="#">Cadastro</a>
+          					<a class="dropdown-item" href="./pg/login.php">Entra</a>
+          					<a class="dropdown-item" href="./pg/cadastro.php">Cadastro</a>
         					</div>
       			</li>
 							<!-- botao de pesquisa no menu -->
@@ -88,7 +88,7 @@
 				<div class="row">
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img data-src="holder.js/100%x100" alt="100% x200" style="height:100%; width: 100%; display: block;" src="img/rodape/teste.png" data-holder-rendered="true">
+							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
 						<div class="caption">
 							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[Nome do Produto]</font></font></h3>
 							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{descrição do Produto}</font><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
@@ -99,7 +99,7 @@
 				</div>
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img data-src="holder.js/100%x100" alt="100% x200" style="height:100%; width: 100%; display: block;" src="img/rodape/teste.png" data-holder-rendered="true">
+							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
 						<div class="caption">
 							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[Nome do Produto]</font></font></h3>
 							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{descrição do Produto}</font><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
@@ -110,7 +110,7 @@
 				</div>
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img data-src="holder.js/100%x100" alt="100% x200" style="height:100%; width: 100%; display: block;" src="img/rodape/meta.png" data-holder-rendered="true">
+							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/rodape/meta.png" data-holder-rendered="true">
 						<div class="caption">
 							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Patrocinador</font></font></h3>
 							<p><font style="vertical-align: inherit;"></font> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Site Institucional</font>
@@ -120,7 +120,7 @@
 				</div>
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img data-src="holder.js/100%x100" alt="100% x200" style="height:100%; width: 100%; display: block;" src="img/rodape/teste.png" data-holder-rendered="true">
+							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
 						<div class="caption">
 							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[Nome do Produto]</font></font></h3>
 							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{descrição do Produto}</font><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
@@ -131,7 +131,7 @@
 				</div>
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img data-src="holder.js/100%x100" alt="100% x200" style="height:100%; width: 100%; display: block;" src="img/rodape/teste.png" data-holder-rendered="true">
+							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
 						<div class="caption">
 							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[Nome do Produto]</font></font></h3>
 							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{descrição do Produto}</font><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
@@ -142,7 +142,7 @@
 				</div>
 						<div class="col-sm-6 col-md-4">
 							<div class="thumbnail">
-								<img data-src="holder.js/100%x100" alt="100% x200" style="height:100%; width: 100%; display: block;" src="img/rodape/meta.png" data-holder-rendered="true">
+								<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/rodape/meta.png" data-holder-rendered="true">
 							<div class="caption">
 								<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Patrocinador</font></font></h3>
 								<p><font style="vertical-align: inherit;"></font> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Site Institucional</font>
@@ -156,14 +156,31 @@
 		<hr />
 		<a href="#topoSite"> </a>
 		<footer> <!-- inicio rodape -->
-				<ul class="socialIcons">
-						<li> Conecta-se a Nós </li>
+			<p>Devenvolvedores:<br /><a href="https://github.com/dutraweslley">Weslley Dutra<br /></a>
+			<a href="https://github.com/RRodrigoRamos/">Rodrigo B. Ramos<br /></a>
+		<a href="https://github.com/Andersonpinheirocruz">Anderson Pinheiro <br /></a></p>
+			<div class="left">
+					<ul class="socialIcons">
+					  <li><a href="https://github.com/RRodrigoRamos/projeti-meta-2017_2"> Repositorio GitHub<img src="img/rodape/github1.png" alt="Repositorio do Projeto"/></a></li>
+					</ul>
+					<ul class="socialIcons">
 					  <li><a href="#"><img src="img/rodape/face.png" alt="facebook/projeti-meta"/></a></li>
-					  <li><a href="https://github.com/RRodrigoRamos/projeti-meta-2017_2"><img src="img/rodape/github1.png" alt="Repositorio do Projeto"/></a></li>
 					  <li><a href="#"><img src="img/rodape/email.png" alt="email/projeti-meta"/></a></li>
 					  <li><a href="http://www.meta.edu.br/faculdade/"><img src="img/rodape/meta2.png" alt="faculdade_meta"/></a></li>
+					</ul>
+			</div>
+				<div class="dev">
+					<ul class="nav">
+						<li class="nav-item dropdown">
+    							<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">LOGIN</a>
+    						<div class="dropdown-menu">
+      							<a class="dropdown-item" href="./pg/login.php">Entrar</a>
+      							<a class="dropdown-item" href="./pg/cadastro.php">Cadastro</a>
+										<a class="dropdown-item" href="./pg/cadastro_email.php">Fique por dentro Cadastrar Email</a>
+								</div>
+  				</li>
 				</ul>
-				<span>Repositorio GitHub - Projeti</span>
+    </div>
 		</footer><!--Fim Rodapá -->
 </main>
 	<script src="js/jquery-3.2.1.slim.min.js"></script>

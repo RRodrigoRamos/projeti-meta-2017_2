@@ -1,0 +1,10 @@
+article#login {
+    width: 100% !important;
+    min-height: 600px !important;
+    margin: 10px auto;
+    background: url("../img/fundos/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.5;
+ }

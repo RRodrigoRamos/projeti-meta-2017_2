@@ -90,8 +90,8 @@
 						<div class="thumbnail">
 							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
 						<div class="caption">
-							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[Nome do Produto]</font></font></h3>
-							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{descrição do Produto}</font><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
+							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão Esmaltec 2017</font></font></h3>
+							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão 4 Bocas - Esmaltec</font><br /><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
 							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
 							</font></a></p>
 						</div>
@@ -101,8 +101,8 @@
 						<div class="thumbnail">
 							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
 						<div class="caption">
-							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[Nome do Produto]</font></font></h3>
-							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{descrição do Produto}</font><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
+							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão Esmaltec 2017</font></font></h3>
+							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão 4 Bocas - Esmaltec</font><br /><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
 							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
 							</font></a></p>
 						</div>
@@ -122,8 +122,8 @@
 						<div class="thumbnail">
 							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
 						<div class="caption">
-							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[Nome do Produto]</font></font></h3>
-							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{descrição do Produto}</font><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
+							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão Esmaltec 2017</font></font></h3>
+							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão 4 Bocas - Esmaltec</font><br /><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
 							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
 							</font></a></p>
 						</div>
@@ -133,8 +133,8 @@
 						<div class="thumbnail">
 							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
 						<div class="caption">
-							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[Nome do Produto]</font></font></h3>
-							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{descrição do Produto}</font><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
+							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão Esmaltec 2017</font></font></h3>
+							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão 4 Bocas - Esmaltec</font><br /><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
 							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
 							</font></a></p>
 						</div>
@@ -153,34 +153,32 @@
 				</div>
 			</div>
 		</article><!-- fim conteudo -->
-		<hr />
 		<a href="#topoSite"> </a>
 		<footer> <!-- inicio rodape -->
-			<p>Devenvolvedores:<br /><a href="https://github.com/dutraweslley">Weslley Dutra<br /></a>
-			<a href="https://github.com/RRodrigoRamos/">Rodrigo B. Ramos<br /></a>
-		<a href="https://github.com/Andersonpinheirocruz">Anderson Pinheiro <br /></a></p>
-			<div class="left">
-					<ul class="socialIcons">
-					  <li><a href="https://github.com/RRodrigoRamos/projeti-meta-2017_2"> Repositorio GitHub<img src="img/rodape/github1.png" alt="Repositorio do Projeto"/></a></li>
-					</ul>
+					<div class="dev">
+							<ul class="nav">
+								<li class="nav-item dropdown">
+											<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">LOGIN</a>
+										<div class="dropdown-menu">
+												<a class="dropdown-item" href="./pg/login.php">Entrar</a>
+												<a class="dropdown-item" href="./pg/cadastro.php">Cadastro</a>
+												<a class="dropdown-item" href="./pg/cadastro_email.php">Fique por dentro Cadastrar Email</a>
+										</div>
+							</li>
+						</ul>
+				</div>
+			  <div class="rodapeIcons">
 					<ul class="socialIcons">
 					  <li><a href="#"><img src="img/rodape/face.png" alt="facebook/projeti-meta"/></a></li>
 					  <li><a href="#"><img src="img/rodape/email.png" alt="email/projeti-meta"/></a></li>
 					  <li><a href="http://www.meta.edu.br/faculdade/"><img src="img/rodape/meta2.png" alt="faculdade_meta"/></a></li>
 					</ul>
-			</div>
-				<div class="dev">
-					<ul class="nav">
-						<li class="nav-item dropdown">
-    							<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">LOGIN</a>
-    						<div class="dropdown-menu">
-      							<a class="dropdown-item" href="./pg/login.php">Entrar</a>
-      							<a class="dropdown-item" href="./pg/cadastro.php">Cadastro</a>
-										<a class="dropdown-item" href="./pg/cadastro_email.php">Fique por dentro Cadastrar Email</a>
-								</div>
-  				</li>
-				</ul>
-    </div>
+			  </div>
+				<div class="centroInfor">
+						<p>Devenvolvedores:<br /><a href="https://github.com/dutraweslley">Weslley Dutra<br /></a>
+							<a href="https://github.com/RRodrigoRamos/">Rodrigo B. Ramos<br /></a>
+							<a href="https://github.com/Andersonpinheirocruz">Anderson Pinheiro <br /></a> © COPYRIGHT 2017 - CVMM, TODOS OS DIREITOS RESERVADOS.<br /><a href="https://github.com/RRodrigoRamos/projeti-meta-2017_2"> Repositorio GitHub<img src="img/rodape/github1.png" alt="Repositorio do Projeto"/></a></p>
+			  </div>
 		</footer><!--Fim Rodapá -->
 </main>
 	<script src="js/jquery-3.2.1.slim.min.js"></script>

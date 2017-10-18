@@ -53,11 +53,11 @@
       }
     }
 
-  @media all and (max-width: 900px){
+  /*@media all and (max-width: 900px){
     .pesquisa{
       display: none;
     }
-  }
+  }*/
 
 /*Estilizando individuais */
   /*principal container*/
@@ -144,11 +144,15 @@
 /*rodapé diversos e os icones*/
   footer {
     width:100%;
-    min-height:100px;
-    margin:30px auto !important;
+    /*min-height:80px;*/
+    height: auto;
+    margin:10px auto !important;
     text-align:right;
-    clear:both;
-  }
+    /*background: red; /* Efeito de Gradiente no Rodapé */ /*
+    background: -webkit-linear-gradient(bottom, rgba(0,0,0,0), rgba(0,0,0,1));
+    background: -o-linear-gradient(bottom, rgba(0,0,0,0), rgba(0,0,0,1));
+    background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,1));
+  }*/}
 /* estilizando o rodapé */
   footer p{
     margin:20px;
@@ -156,23 +160,33 @@
     font-size: 10pt !important;
     text-align: center;
   }
-  footer div.left {
-    width:70%;
-    float:right;
-
+  footer div.rodapeIcons {
+    width:25%;
+    height: auto;
+    float:right !important;
+    /*background-color: rgba(107, 86, 203, 0.48);*/
   }
 
   footer div.dev {
-    display: block;
-    width:30%;
+    width:25% !important;
+    vertical-align: middle;
+    float:left !important;
+    /*background-color: rgba(107, 86, 23, 0.48);*/
+  }
+
+  footer div.centroInfor {
+    width: 50%;
+    height: auto;
+    float:right !important;
+    /*background-color: rgba(107, 186, 203, 0.48);*/
+  }
+
+  footer div.centroInfor img {
+    width:40px !important;
   }
 
 
-/*estilizando as redes sociais*/
-  .socialIcons {
-    width:100%;
-      }
-
+/*trabalhando com os icones*/
   .socialIcons li {
     display:inline;
     list-style-type:none;

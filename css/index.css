@@ -1,11 +1,4 @@
 /*Responsividade as telas diversas*/
-
-* {
-    box-sizing: border-box !important;
-    margin:0px !important;
-    /*padding:0px !important;*/
-  }
-
   @media all and (max-width:1200px){
       figure{
         display:block;
@@ -18,9 +11,18 @@
       }
     }
 
-  @media all and (max-width:1250px){
+  @media all and (max-width:990px){
+
         #topo{
           display:none;
+        }
+        section, div#carouselExampleIndicators, div#carouselExampleIndicators img{
+          width:100% !important;
+          min-height:95px !important;
+          /*background-color: red;*/
+        }
+        nav span#icones {
+          display: none;
         }
       }
 
@@ -31,35 +33,30 @@
     }
 
 
-/*controlando o banner de divulgação*/
-  @media screen and (max-width:1024px){
-     section{
-       margin:10px auto;
-       width:90% !important;
-       height:100% !important;
-      }
-    }
-
-/*controle do botao de pesquisa */
-  /*@media screen and (max-width:2200px){
-    .direita{
-      margin-left:10px;
-      }
-    }*/
-
-  @media all and (min-width:990px){
-    .direita{
-     margin-left:5pc !important;
-      }
-    }
-
-  /*@media all and (max-width: 900px){
-    .pesquisa{
-      display: none;
+/*botao de pesquisa*/
+  /*@media all and (min-width:990px){
+    .direita {
+     margin-right:15px !important;
     }
   }*/
 
+  .direita {
+    margin-left: 4% !important;
+  }
+
+form button:hover {
+  text-shadow:1px 1px 20px black;
+
+}
+
+
 /*Estilizando individuais */
+  * {
+    box-sizing: border-box !important;
+    margin:0px !important;
+    /*padding:0px !important;*/
+  }
+
   /*principal container*/
   main {
     width:100% !important;
@@ -69,27 +66,35 @@
 
 /*controle do menu e topo*/
   nav {
-    width:100%;
+    width:100% !important;
     box-shadow: 1px 2px 20px black;
     font-family: 'Noto Serif', serif;
-    font-size: 12pt;
+    font-size: 12pt !important;
     z-index:10;
-  }
-/*fixando o menu apos a rolagem*/
-  nav.fixed-nav {
-    position: fixed !important;
+    text-align: center;
+    /*position: fixed !important;
     top:0px !important;
-    left:0px !important;
-    z-index: 999;
+    left:0px !important;*/
   }
 
   /*efeitos no menu*/
   nav a:hover {
     background-color:rgba(0,0,100,0.1);
     border-radius: 10px;
-    color:black !important;
-    text-shadow:1px 2px 10px black;
+    color:white !important;
+    text-shadow:1px 1px 10px black;
+    text-decoration: underline !important;
   }
+
+  /*icones canto*/
+  nav span#icones {
+    position: absolute;
+    top:10px;
+    right:5px;
+  }
+
+  nav span#icones i {
+    margin:2px;}
 
 /*Controlando o banner de propaganda dos produtos*/
   section{
@@ -98,6 +103,7 @@
     width:90% !important;
   	height:100% !important;
   }
+
 /*controlando conteudo pg-principal*/
   article {
     margin:10px auto !important;
@@ -105,15 +111,13 @@
     width:100%;
     min-height:500px;
     box-shadow: 1px 10px 20px rgba(0, 28, 31, 0.33);
+    position: relative !im;
   }
 
   /* Controlando conteudo */
-
   div.thumbnail {
     margin:20px auto !important;
   }
-
-
 
   span.subaSite {
     width:50px;
@@ -147,14 +151,15 @@
     /*min-height:80px;*/
     height: auto;
     margin:10px auto !important;
-    text-align:right;
+    text-align:center;
     /*background: red; /* Efeito de Gradiente no Rodapé */ /*
     background: -webkit-linear-gradient(bottom, rgba(0,0,0,0), rgba(0,0,0,1));
     background: -o-linear-gradient(bottom, rgba(0,0,0,0), rgba(0,0,0,1));
     background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,1));
   }*/}
+
 /* estilizando o rodapé */
-  footer p{
+  footer, p{
     margin:20px;
     font-family: 'Noto Serif', serif;
     font-size: 10pt !important;
@@ -162,14 +167,15 @@
   }
   footer div.rodapeIcons {
     width:25%;
-    height: auto;
+    height:auto;
     float:right !important;
+    text-align: right;
     /*background-color: rgba(107, 86, 203, 0.48);*/
   }
 
   footer div.dev {
     width:25% !important;
-    vertical-align: middle;
+    vertical-align: middle!important;
     float:left !important;
     /*background-color: rgba(107, 86, 23, 0.48);*/
   }
@@ -195,4 +201,17 @@
   .socialIcons li img {
     width:40px !important;
     vertical-align: middle !important;
+  }
+
+
+/*personalizando as paginas*/
+  article section#topoAcessorio {
+    width:100%;
+    height:300px;
+    background-color: red;
+  }
+
+  article section#topoAcessorio img{
+    width:10%;
+    height:300px;
   }

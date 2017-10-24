@@ -16,20 +16,20 @@
 //
 // // Fazer uma transição suave na fixaçãdo menu
 //
-// // // subir quando baixar..
-// // $(function(){
-// //   $('#subaUp').hide();
-// //     $(window).scroll(function(){
-// //       if($(this).scrollTop() > 200){
-// //           $('#subaUp').fadeIn();
-// //       }else{
-// //           $('#subaUp').fadeOut();
-// //         }
-// //     });
-// //     $('#subaUp').Click(function(){
-// //       $(html,body).animate({
-// //           scrollTop: 0
-// //       },800);
-// //       return false;
-// //     });
-// // });
+// subir quando baixar..
+// $(function(){
+//   // $('#subaUp').hide();
+//     $(window).scroll(function(){
+//       if($(this).scrollTop() > 200){
+//           $('#subaUp').fadeIn();
+//       }else{
+//           $('#subaUp').fadeOut();
+//         }
+//     });
+//     $('#subaUp').Click(function(){
+//       $(html,body).animate({
+//           scrollTop: 0
+//       },800);
+//       return false;
+//     });
+// });

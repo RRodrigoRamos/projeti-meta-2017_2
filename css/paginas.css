@@ -1,27 +1,59 @@
-/*controle da pagina de login*/
+/* ########################### Pagina de LOGIN #######################*/
 article#login {
-    width: 100% !important;
-    min-height: 300px !important;
-    background: url("../img/fundos/1.jpg");
+    width: 80% !important;
+    min-height: 400px !important;
+    background: url("../img/fundos/2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     opacity: 0.8;
  }
 
-article div.tela {
-  margin:50px !important;
+/*para as telas mobile*/
+@media all and (max-width:990px){
+  article#login {
+    width: 100% !important;
+  }
+
+  article#login form{
+    margin:1pc auto !important;
+    /*padding:5px;*/
+    width:95% !important;
+    height:100%;
+    background-color:rgba(240, 249, 234, 0.5);
+    border-radius: 10px;
+      }
+  article#login h2 {
+        font-size:15pt;
+        font-variant: small-caps;
+      }
+    }
+
+/*telas normal desktop*/
+article#login form{
+  margin:20px auto !important;
+  padding:20px;
+  width:80%;
+  height:100%;
+  background-color:rgba(240, 249, 234, 0.5);
+  border-radius: 10px;
+   z-index: 2;
 }
 
-/*controle das paginas diversas
-Pagina de Acessorio*/
-article section#topoAcessorio {
-  width:100%;
-  height:300px;
-  background-color: red;
+article#login h2 {
+    font-variant: small-caps;
+    margin: 10px !important;
 }
 
-article section#topoAcessorio img{
-  width:10%;
-  height:300px;
+/*####################################### Página de ACESSÓRIO ################################*/
+/*article #pg_acessorio {
+  width:10px !important;
+  background-color: red !important;
+}*/
+
+article#pg_acessorio nav#paginacao {
+  width:90% !important;
+  margin: 10px auto !important;
+  /*background-color: red !important;*/
+  box-shadow:none;
 }

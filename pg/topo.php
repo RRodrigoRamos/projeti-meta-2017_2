@@ -13,7 +13,7 @@
     <link rel="shortcut icon" href="../img/amapa.png" type="image/x-icon"/>
 	<link rel="stylesheet" type="text/css" media="all" href="../css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" media="screen" href="../css/index.css">
-  <!-- <link rel="stylesheet" type="text/css" media="screen" href="../css/paginas.css"> -->
+  <link rel="stylesheet" type="text/css" media="screen" href="../css/paginas.css">
 	<link href="https://fonts.googleapis.com/css?family=Noto+Serif" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="../fonts/font-awesome-4.4.0/css/font-awesome.min.css">
 </head>

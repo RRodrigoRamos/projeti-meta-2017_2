@@ -93,104 +93,109 @@
 				<div class="row">
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
+							<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true"/>
 						<div class="caption">
-							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão Esmaltec 2017</font></font></h3>
-							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão 4 Bocas - Esmaltec</font><br /><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
-							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
-							</font></a></p>
+							<h4>Fogão Esmaltec - AutoLimpante</h4>
+							<p>Fogão 5 Bocas - Esmaltec / 2017<br /><b>Preço R$ 800,00</b></p>
+							<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+									<a href="#" class="btn btn-default" role="button">Adicionar </a>
+							</p>
 						</div>
 					</div>
 				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="thumbnail">
+						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/eletrodomestico/15.jpg" data-holder-rendered="true"/>
+					<div class="caption">
+						<h4>Refriregador FosterFree - Brastemp</h4>
+						<p>Gelo Seco - Painel digital <br /><b>Preço R$1.500,000</b></p>
+						<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+								<a href="#" class="btn btn-default" role="button">Adicionar </a>
+						</p>
+					</div>
+				</div>
+			</div>
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
-						<div class="caption">
-							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão Esmaltec 2017</font></font></h3>
-							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão 4 Bocas - Esmaltec</font><br /><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
-							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
-							</font></a></p>
-						</div>
-					</div>
-				</div>
-					<div class="col-sm-6 col-md-4">
-						<div class="thumbnail">
-							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/rodape/meta.png" data-holder-rendered="true">
-						<div class="caption">
-							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Patrocinador</font></font></h3>
-							<p><font style="vertical-align: inherit;"></font> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Site Institucional</font>
-							</font></a></p>
-						</div>
-					</div>
-				</div>
-					<div class="col-sm-6 col-md-4">
-						<div class="thumbnail">
-							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
-						<div class="caption">
-							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão Esmaltec 2017</font></font></h3>
-							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão 4 Bocas - Esmaltec</font><br /><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
-							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
-							</font></a></p>
-						</div>
-					</div>
-				</div>
-					<div class="col-sm-6 col-md-4">
-						<div class="thumbnail">
-							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
-						<div class="caption">
-							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão Esmaltec 2017</font></font></h3>
-							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão 4 Bocas - Esmaltec</font><br /><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
-							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
-							</font></a></p>
-						</div>
-					</div>
-				</div>
-						<div class="col-sm-6 col-md-4">
-							<div class="thumbnail">
-								<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/rodape/meta.png" data-holder-rendered="true">
+							<img data-src="holder.js/100%x100" alt="Produto -C&M-"   src="img/rodape/meta.png" data-holder-rendered="true">
 							<div class="caption">
-								<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Patrocinador</font></font></h3>
-								<p><font style="vertical-align: inherit;"></font> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Site Institucional</font>
-								</font></a></p>
+								<h5>Patrocinador</h5>
+								<p><a href="http://www.meta.edu.br/faculdade/" class="btn btn-secondary" role="button">Site Institucional</a></p>
 							</div>
-						</div>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
+							<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/eletronico/1.jpg" data-holder-rendered="true"/>
 						<div class="caption">
-							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão Esmaltec 2017</font></font></h3>
-							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão 4 Bocas - Esmaltec</font><br /><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
-							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
-							</font></a></p>
+							<h4>Samsung Gran Prime</h4>
+							<p>Pelicula de Vidro / G530 <br /><b> Preço R$ 700,00 </b></p>
+							<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+									<a href="#" class="btn btn-default" role="button">Adicionar </a>
+							</p>
 						</div>
 					</div>
 				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="thumbnail">
+						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/eletronico/2.jpg" data-holder-rendered="true"/>
+					<div class="caption">
+						<h4>Smartphone LG K10 </h4>
+						<p>Power M320TV / peliculado <br /><b>Preço R$ 1.500,00</b></p>
+						<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+								<a href="#" class="btn btn-default" role="button">Adicionar </a>
+						</p>
+					</div>
+				</div>
+			</div>
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true">
+							<img data-src="holder.js/100%x100" alt="Produto -C&M-"   src="img/patrocinio/garden.png" data-holder-rendered="true">
+							<div class="caption">
+								<h5>Patrocinador</h5>
+								<p><a href="http://amapagardenshopping.com.br/" class="btn btn-secondary" role="button">Site</a></p>
+							</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-6 col-md-4">
+						<div class="thumbnail">
+							<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/automotivo/15.jpg" data-holder-rendered="true"/>
 						<div class="caption">
-							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão Esmaltec 2017</font></font></h3>
-							<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fogão 4 Bocas - Esmaltec</font><br /><font style="vertical-align: inherit;">(Preço R$ 00,000)</font><font style="vertical-align: inherit;"> Troca ou Venda</font></font></font></p>
-							<p><a href="#" class="btn btn-primary" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comprar Agora </font></font></a> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adicionar</font>
-							</font></a></p>
+							<h4>Honda BROS - 125cc</h4>
+							<p>5 Machas / Tanque 15l<br />Preço R$5.800,00</p>
+							<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+									<a href="#" class="btn btn-default" role="button">Adicionar </a>
+							</p>
 						</div>
 					</div>
 				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="thumbnail">
+						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/automotivo/8.jpg" data-holder-rendered="true"/>
+					<div class="caption">
+						<h4>Gol - SpaceFox G5</h4>
+						<p>Cambio Automatico 5V /3 Airbag <br />Preço R$ 25.500,00)</p>
+						<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+								<a href="#" class="btn btn-default" role="button">Adicionar </a>
+						</p>
+					</div>
+				</div>
+			</div>
 					<div class="col-sm-6 col-md-4">
 						<div class="thumbnail">
-							<img data-src="holder.js/100%x100" alt="Produto -C&M-" style="height:100%; width: 100%; display: block;" src="img/rodape/meta.png" data-holder-rendered="true">
+							<img data-src="holder.js/100%x100" alt="Produto -C&M-"   src="img/patrocinio/sanalucia.jpg" data-holder-rendered="true">
 						<div class="caption">
-							<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Patrocinador</font></font></h3>
-							<p><font style="vertical-align: inherit;"></font> <a href="#" class="btn btn-default" role="button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Site Institucional</font>
-							</font></a></p>
+							<h5>Patrocinador</h5>
+							<p><a href="http://supermercadosantalucia.com.br/" class="btn btn-secondary" role="button">Site</a></p>
 						</div>
 					</div>
 				</div>
 				</div>
 			</div>
+		</div>
+	</div>
 		</article><!-- fim conteudo -->
 		<a href="#topoSite"> </a> <!--link para subir -->
 		<footer> <!-- inicio rodape -->
@@ -219,7 +224,7 @@
 							<a href="https://github.com/Andersonpinheirocruz">Anderson Pinheiro <i class="fa fa-github"></i> <br /></a> © COPYRIGHT 2017 - CVMM, TODOS OS DIREITOS RESERVADOS.<br /><a href="https://github.com/RRodrigoRamos/projeti-meta-2017_2"> Repositorio GitHub<img src="img/rodape/github1.png" alt="Repositorio do Projeto"/></a></p>
 
 			  </div>
-
+<span> <a href="#topoSite"> <i class="fa fa-angle-double-up fa-3x" aria-hidden="true"></i></a> </span>
 		</footer><!--Fim Rodapá -->
 </main>
 	<script src="js/jquery-3.2.1.slim.min.js"></script>

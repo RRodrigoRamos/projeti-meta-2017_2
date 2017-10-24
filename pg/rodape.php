@@ -1,4 +1,3 @@
-<a href="#topoSite"> </a> <!--link para subir -->
 <footer> <!-- inicio rodape -->
       <div class="dev">
           <ul class="nav">
@@ -25,7 +24,7 @@
           <a href="https://github.com/Andersonpinheirocruz">Anderson Pinheiro <i class="fa fa-github"></i> <br /></a> © COPYRIGHT 2017 - CVMM, TODOS OS DIREITOS RESERVADOS.<br /><a href="https://github.com/RRodrigoRamos/projeti-meta-2017_2"> Repositorio GitHub<img src="../img/rodape/github1.png" alt="Repositorio do Projeto"/></a></p>
 
     </div>
-
+<span> <a href="#topoSite"><i class="fa fa-angle-double-up fa-3x" aria-hidden="true"></i></a> </span><!--link para subir -->
 </footer><!--Fim Rodapá -->
 </main>
 <script src="../js/jquery-3.2.1.slim.min.js"></script>

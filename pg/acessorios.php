@@ -1,89 +1,89 @@
-<?php
-  require_once('topo.php');
-    echo "
-        <!-- // Topo da pagina -->
-        <section id='topoAcessorio'>
-          <img src='../img/categorias/anuncios/acessorio/principal.jpeg'
-          </section>
-    <article>
-       <div class='bs-example'>
-        <div class='row'>
-          <div class='col-sm-6 col-md-4'>
-            <div class='thumbnail'>
-              <img data-src='holder.js/100%x100' alt='Produto -C&M-' style='height:100%; width: 100%; display: block;' src='../img/categorias/anuncios/acessorio/3.jpg' data-holder-rendered='true'>
-            <div class='caption'>
-              <h3><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Tipo Acessorio</font></font></h3>
-              <p><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Descrição do acessorio</font><br /><font style='vertical-align: inherit;'>(Preço R$ 00,000)</font><font style='vertical-align: inherit;'> Troca ou Venda</font></font></font></p>
-              <p><a href='#' class='btn btn-primary' role='button'><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Comprar Agora </font></font></a> <a href='#' class='btn btn-default' role='button'><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Adicionar</font>
-              </font></a></p>
-            </div>
-          </div>
-        </div>
-          <div class='col-sm-6 col-md-4'>
-            <div class='thumbnail'>
-              <img data-src='holder.js/100%x100' alt='Produto -C&M-' style='height:100%; width: 100%; display: block;' src='../img/categorias/anuncios/acessorio/1.jpg' data-holder-rendered='true'>
-            <div class='caption'>
-              <h3><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Tipo Acessorio</font></font></h3>
-              <p><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Descrição do acessorio</font><br /><font style='vertical-align: inherit;'>(Preço R$ 00,000)</font><font style='vertical-align: inherit;'> Troca ou Venda</font></font></font></p>
-              <p><a href='#' class='btn btn-primary' role='button'><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Comprar Agora </font></font></a> <a href='#' class='btn btn-default' role='button'><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Adicionar</font>
-              </font></a></p>
-            </div>
-          </div>
-        </div>
-          <div class='col-sm-6 col-md-4'>
-            <div class='thumbnail'>
-              <img data-src='holder.js/100%x100' alt='Produto -C&M-' style='height:100%; width: 100%; display: block;' src='../img/rodape/meta.png' data-holder-rendered='true'>
-            <div class='caption'>
-              <h3><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Patrocinador</font></font></h3>
-              <p><font style='vertical-align: inherit;'></font> <a href='#' class='btn btn-default' role='button'><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Site Institucional</font>
-              </font></a></p>
-            </div>
-          </div>
-        </div>
-          <div class='col-sm-6 col-md-4'>
-            <div class='thumbnail'>
-              <img data-src='holder.js/100%x100' alt='Produto -C&M-' style='height:100%; width: 100%; display: block;' src='../img/categorias/anuncios/acessorio/4.jpg' data-holder-rendered='true'>
-            <div class='caption'>
-              <h3><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Tipo Acessorio</font></font></h3>
-              <p><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Descrição do acessorio</font><br /><font style='vertical-align: inherit;'>(Preço R$ 00,000)</font><font style='vertical-align: inherit;'> Troca ou Venda</font></font></font></p>
-              <p><a href='#' class='btn btn-primary' role='button'><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Comprar Agora </font></font></a> <a href='#' class='btn btn-default' role='button'><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Adicionar</font>
-              </font></a></p>
-            </div>
-          </div>
-        </div>
-          <div class='col-sm-6 col-md-4'>
-            <div class='thumbnail'>
-              <img data-src='holder.js/100%x100' alt='Produto -C&M-' style='height:100%; width: 100%; display: block;' src='../img/categorias/anuncios/acessorio/5.jpg' data-holder-rendered='true'>
-            <div class='caption'>
-              <h3><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Tipo Acessorio</font></font></h3>
-              <p><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Descrição do acessorio</font><br /><font style='vertical-align: inherit;'>(Preço R$ 00,000)</font><font style='vertical-align: inherit;'> Troca ou Venda</font></font></font></p>
-              <p><a href='#' class='btn btn-primary' role='button'><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Comprar Agora </font></font></a> <a href='#' class='btn btn-default' role='button'><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Adicionar</font>
-              </font></a></p>
-            </div>
-          </div>
-        </div>
-            <div class='col-sm-6 col-md-4'>
-              <div class='thumbnail'>
-                <img data-src='holder.js/100%x100' alt='Produto -C&M-' style='height:100%; width: 100%; display: block;' src='../img/rodape/meta.png' data-holder-rendered='true'>
-              <div class='caption'>
-                <h3><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Patrocinador</font></font></h3>
-                <p><font style='vertical-align: inherit;'></font> <a href='#' class='btn btn-default' role='button'><font style='vertical-align: inherit;'><font style='vertical-align: inherit;'>Site Institucional</font>
-                </font></a></p>
-              </div>
-            </div>
-          </div>
-        </div>
+<?php include_once("topo.php"); ?>
+        <!-- <section id="topoAcessorio">
+          <img src="../img/categorias/anuncios/acessorio/principal.jpeg"
+        </section> -->
+    <article id ="pg_acessorio">
+         <div class="bs-example">
+           <div class="row">
+   					<div class="col-sm-6 col-md-4">
+   						<div class="thumbnail">
+   							<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true"/>
+   						<div class="caption">
+   							<h4>Fogão Esmaltec - AutoLimpante</h4>
+   							<p>Fogão 5 Bocas - Esmaltec / 2017<br /><b>Preço R$ 800,00</b></p>
+   							<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+   									<a href="#" class="btn btn-default" role="button">Adicionar </a>
+   							</p>
+   						</div>
+   					</div>
+   				</div>
+   				<div class="col-sm-6 col-md-4">
+   					<div class="thumbnail">
+   						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/eletrodomestico/15.jpg" data-holder-rendered="true"/>
+   					<div class="caption">
+   						<h4>Refriregador FosterFree - Brastemp</h4>
+   						<p>Gelo Seco - Painel digital <br /><b>Preço R$1.500,000</b></p>
+   						<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+   								<a href="#" class="btn btn-default" role="button">Adicionar </a>
+   						</p>
+   					</div>
+   				</div>
+   			</div>
+   					<div class="col-sm-6 col-md-4">
+   						<div class="thumbnail">
+   							<img data-src="holder.js/100%x100" alt="Produto -C&M-"   src="../img/rodape/meta.png" data-holder-rendered="true">
+   							<div class="caption">
+   								<h5>Patrocinador</h5>
+   								<p><a href="http://www.meta.edu.br/faculdade/" class="btn btn-secondary" role="button">Site Institucional</a></p>
+   							</div>
+   					</div>
+   				</div>
+   				<div class="row">
+   					<div class="col-sm-6 col-md-4">
+   						<div class="thumbnail">
+   							<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/eletronico/1.jpg" data-holder-rendered="true"/>
+   						<div class="caption">
+   							<h4>Samsung Gran Prime</h4>
+   							<p>Pelicula de Vidro / G530 <br /><b> Preço R$ 700,00 </b></p>
+   							<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+   									<a href="#" class="btn btn-default" role="button">Adicionar </a>
+   							</p>
+   						</div>
+   					</div>
+   				</div>
+   				<div class="col-sm-6 col-md-4">
+   					<div class="thumbnail">
+   						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/eletronico/2.jpg" data-holder-rendered="true"/>
+   					<div class="caption">
+   						<h4>Smartphone LG K10 </h4>
+   						<p>Power M320TV / peliculado <br /><b>Preço R$ 1.500,00</b></p>
+   						<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+   								<a href="#" class="btn btn-default" role="button">Adicionar </a>
+   						</p>
+   					</div>
+   				</div>
+   			</div>
+   					<div class="col-sm-6 col-md-4">
+   						<div class="thumbnail">
+   							<img data-src="holder.js/100%x100" alt="Produto -C&M-"   src="../img/patrocinio/garden.png" data-holder-rendered="true">
+   							<div class="caption">
+   								<h5>Patrocinador</h5>
+   								<p><a href="http://amapagardenshopping.com.br/" class="btn btn-secondary" role="button">Site</a></p>
+   							</div>
+   					</div>
+   				</div>
+   			</div>
+   		</div>
         </div>
       </div>
-            <nav aria-label='Page navigation example'>
-                <ul class='pagination'>
-                  <li class='page-item'><a class='page-link' href='#'>Anterior</a></li>
-                  <li class='page-item'><a class='page-link' href='#'>1</a></li>
-                  <li class='page-item'><a class='page-link' href='#'>2</a></li>
-                  <li class='page-item'><a class='page-link' href='#'>3</a></li>
-                  <li class='page-item'><a class='page-link' href='#'>Próximo</a></li>
+            <nav id="paginacao" aria-label="Page navigation example">
+                <ul class="pagination justify-content-center">
+                  <li class="page-item"><a class="page-link" href="#"><i class="fa fa-angle-left" aria-hidden="true"></i> Anterior</a></li>
+                  <li class="page-item"><a class="page-link" href="#">1<span class="sr-only">(current)</span></a></li>
+                  <li class="page-item"><a class="page-link" href="#">2</a></li>
+                  <li class="page-item"><a class="page-link" href="#">3</a></li>
+                  <li class="page-item"><a class="page-link" href="#">Próximo <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
                 </ul>
            </nav>
-    </article>";
-  require_once('rodape.php');
- ?>
+    </article>
+  <?php require_once("rodape.php");?>

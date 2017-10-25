@@ -1,16 +1,17 @@
 <?php include_once("topo.php"); ?>
-        <!-- <section id="topoAcessorio">
-          <img src="../img/categorias/anuncios/acessorio/principal.jpeg"
-        </section> -->
+        <section id="topoAcessorio">
+          <h1> Sessão de Acessórios </h1>
+          <h4> Bolsas, Pulseiras, Cintos, etc...  </h4>
+        </section>
     <article id ="pg_acessorio">
          <div class="bs-example">
            <div class="row">
    					<div class="col-sm-6 col-md-4">
    						<div class="thumbnail">
-   							<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true"/>
+   							<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/acessorio/4.jpg" data-holder-rendered="true"/>
    						<div class="caption">
-   							<h4>Fogão Esmaltec - AutoLimpante</h4>
-   							<p>Fogão 5 Bocas - Esmaltec / 2017<br /><b>Preço R$ 800,00</b></p>
+   							<h4>Pulseira de Couro</h4>
+   							<p>Com Detalhes em Aço<br /><b>Preço R$ 10,00 </b></p>
    							<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
    									<a href="#" class="btn btn-default" role="button">Adicionar </a>
    							</p>
@@ -19,10 +20,10 @@
    				</div>
    				<div class="col-sm-6 col-md-4">
    					<div class="thumbnail">
-   						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/eletrodomestico/15.jpg" data-holder-rendered="true"/>
+   						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/acessorio/6.jpg" data-holder-rendered="true"/>
    					<div class="caption">
-   						<h4>Refriregador FosterFree - Brastemp</h4>
-   						<p>Gelo Seco - Painel digital <br /><b>Preço R$1.500,000</b></p>
+   						<h4>Pulsa em Couro - Âncora</h4>
+   						<p>Detalhe Brilhante / Âncora <br /><b>Preço R$25,00</b></p>
    						<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
    								<a href="#" class="btn btn-default" role="button">Adicionar </a>
    						</p>
@@ -41,10 +42,10 @@
    				<div class="row">
    					<div class="col-sm-6 col-md-4">
    						<div class="thumbnail">
-   							<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/eletronico/1.jpg" data-holder-rendered="true"/>
+   							<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/acessorio/11.jpg" data-holder-rendered="true"/>
    						<div class="caption">
-   							<h4>Samsung Gran Prime</h4>
-   							<p>Pelicula de Vidro / G530 <br /><b> Preço R$ 700,00 </b></p>
+   							<h4>Cinto Prime - Couro</h4>
+   							<p> Tradicional / Couro <br /><b> Preço R$ 10,00 </b></p>
    							<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
    									<a href="#" class="btn btn-default" role="button">Adicionar </a>
    							</p>
@@ -53,10 +54,10 @@
    				</div>
    				<div class="col-sm-6 col-md-4">
    					<div class="thumbnail">
-   						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/eletronico/2.jpg" data-holder-rendered="true"/>
+   						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/acessorio/18.jpg" data-holder-rendered="true"/>
    					<div class="caption">
-   						<h4>Smartphone LG K10 </h4>
-   						<p>Power M320TV / peliculado <br /><b>Preço R$ 1.500,00</b></p>
+   						<h4> Bolsa Grife </h4>
+   						<p> Com Detalhes Brilhante <br /><b>Preço R$ 30,00</b></p>
    						<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
    								<a href="#" class="btn btn-default" role="button">Adicionar </a>
    						</p>

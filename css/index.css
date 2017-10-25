@@ -158,8 +158,10 @@ form button:hover {
     position:fixed;
     right:10px;
     bottom:10px;
-    padding:10px;
-    border-radius:50px;
+    /*padding:3px;*/
+    width:40px;
+    height:40px;
+    border-radius:40px;
     background-color: rgba(61, 221, 81, 0.2);
     opacity:0.5;
     -webkit-transition: all 0.4s ease-in;
@@ -168,9 +170,11 @@ form button:hover {
   }
 
   footer span a:hover {
+    width:40px;
+    height:40px;
     color:white;
     background-color: green;
-    border-radius:50px;
+    border-radius:40px;
     right:12px;
     bottom:12px;
     opacity:1;

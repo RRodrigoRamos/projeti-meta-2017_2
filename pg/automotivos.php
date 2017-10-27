@@ -40,7 +40,6 @@
                 </div>
             </div>
           </div>
-          <div class="row">
             <div class="col-sm-6 col-md-4">
               <div class="thumbnail">
                 <img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/automotivo/16.jpg" data-holder-rendered="true"/>
@@ -75,7 +74,6 @@
                 </div>
             </div>
           </div>
-        </div>
       </div>
         </div>
       </div>

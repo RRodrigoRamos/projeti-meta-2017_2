@@ -9,6 +9,15 @@ article#login {
     opacity: 0.8;
   }
 
+  article#pg_cadastro {
+      width: 80% !important;
+      min-height: 400px !important;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      opacity: 0.8;
+    }
+
 /* ############################## PARA TELAS MOBILE #############################*/
 @media all and (max-width:990px){
   article#login {
@@ -27,6 +36,12 @@ article#login {
       font-size:15pt;
       font-variant: small-caps;
     }
+
+    article#pg_cadastro {
+        width: 100% !important;
+      }
+
+/* ########################### paginas diversas #############################*/
   section#topoAcessorio {
       width:90%;
       min-height:150px !important;

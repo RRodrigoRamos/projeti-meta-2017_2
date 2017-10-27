@@ -46,12 +46,13 @@
 								</div>
 					</li>
 				</div>
-				<!-- botao de pesquisa no menu -->
-				<form id="pesquisa" class="form-inline my-lg-0 direita">
-					<input class="form-control col-md-5" type="text" placeholder=" Pesquisa" aria-label="Search">
-						<button class="btn btn-outline-success my-0" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
-				</form>
+
 			</div>
+			<!-- botao de pesquisa no menu -->
+			<form id="pesquisa" class="form-inline my-lg-0 direita">
+				<input class="form-control col-md-6" type="text" placeholder=" Pesquisar" aria-label="Search">
+					<button class="btn btn-outline-success my-0" type="submit"> &nbsp; <i class="fa fa-search" aria-hidden="true"></i> &nbsp; </button>
+			</form>
 						<!-- icones de rede social -->
 				<span id="icones"> <a href="#"> <i class="fa fa-twitter fa-2x" aria-hidden="true"> </i></a> <a href="#"> <i class="fa fa-facebook-square fa-2x" aria-hidden="true"> </i></a> <a href="#"> <i class="fa fa-instagram fa-2x" aria-hidden="true"> </i> </a> </span>
       </nav> <!-- Fim do Menu -->
@@ -197,7 +198,6 @@
 		</div>
 	</div>
 		</article><!-- fim conteudo -->
-		<a href="#topoSite"> </a> <!--link para subir -->
 		<footer> <!-- inicio rodape -->
 					<div class="dev">
 							<ul class="nav">

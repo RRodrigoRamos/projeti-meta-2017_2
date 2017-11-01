@@ -19,6 +19,9 @@
 <body>
 <main class="container-fluid col">	<!-- principal -->
 	<span id="topoSite"> </span><!--botao de subi-->
+	  <figure id="topo"> <!-- Logo Menu -->
+        <img src="./img/topo/capa1.png" width="100%" height="100%" class="align-top img-fluid" alt="Compra e Vendo Meio do Mundo">
+      </figure>
 	<header><!-- inicio do Menu -->
   	<nav id="nav" class="navbar navbar-expand-lg navbar-light bg-light">
 			<figure>
@@ -50,15 +53,12 @@
 			</div>
 			<!-- botao de pesquisa no menu -->
 			<form id="pesquisa" class="form-inline my-lg-0 direita">
-				<input class="form-control col-md-6" type="text" placeholder=" Pesquisar" aria-label="Search">
+				<input class="form-control col-md-9" type="text" placeholder=" Pesquisar" aria-label="Search">
 					<button class="btn btn-outline-success my-0" type="submit"> &nbsp; <i class="fa fa-search" aria-hidden="true"></i> &nbsp; </button>
 			</form>
 						<!-- icones de rede social -->
 				<span id="icones"> <a href="#"> <i class="fa fa-twitter fa-2x" aria-hidden="true"> </i></a> <a href="#"> <i class="fa fa-facebook-square fa-2x" aria-hidden="true"> </i></a> <a href="#"> <i class="fa fa-instagram fa-2x" aria-hidden="true"> </i> </a> </span>
       </nav> <!-- Fim do Menu -->
-      <figure id="topo"> <!-- Logo Menu -->
-        <img src="./img/topo/capa1.png" width="100%" height="100%" class="align-top img-fluid" alt="Compra e Vendo Meio do Mundo">
-      </figure>
       <!-- Inicio Topo -->
       <section id="carousel" class="container-fluid col-sm-10">
           <div id="carouselExampleIndicators" class="carousel slide " data-ride="carousel">
@@ -205,23 +205,23 @@
 											<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-sign-in fa-3x" aria-hidden="true"></i></a>
 										<div class="dropdown-menu">
 												<a class="dropdown-item" href="./pg/login.php"> <i class="fa fa-sign-in" aria-hidden="true"></i> Entrar</a>
-												<a class="dropdown-item" href="./pg/cadastro.php"> <i class="fa fa-check-square-o" aria-hidden="true"></i> Cadastro</a>
-												<a class="dropdown-item" href="./pg/cadastro_email.php"> <i class="fa fa-bullhorn" aria-hidden="true"></i> Fique por dentro Cadastrar Email</a>
+												<a class="dropdown-item" href="./pg/cadastro.php" target="_blank"> <i class="fa fa-check-square-o" aria-hidden="true"></i> Cadastro</a>
+												<a class="dropdown-item" href="./pg/cadastro_email.php" target="_blank"> <i class="fa fa-bullhorn" aria-hidden="true"></i> Fique por dentro Cadastrar Email</a>
 										</div>
 							</li>
 						</ul>
 				</div>
 			  <div class="rodapeIcons">
 					<ul class="socialIcons">
-					  <li><a href="#">Email: <i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a></li>
+					  <li><a href="#" target="_blank">Email: <i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a></li>
 					  <li><a href="#"><br />Contato: <i class="fa fa-mobile fa-3x" aria-hidden="true"></i></a></li>
-					  <li><br /> <a href="http://www.meta.edu.br/faculdade/">  Faculdade Meta: <img src="img/rodape/meta2.png" alt="faculdade_meta"/></a></li>
+					  <li><br /> <a href="http://www.meta.edu.br/faculdade/">  Faculdade Meta: <img src="img/rodape/meta2.png" alt="faculdade_meta" target="_blank"/></a></li>
 					</ul>
 			  </div>
 				<div class="centroInfor">
-						<p>Devenvolvedores:<br /><a href="https://github.com/dutraweslley">Weslley Dutra <i class="fa fa-github" aria-hidden="true"></i><br /></a>
-							<a href="https://github.com/RRodrigoRamos/">Rodrigo B. Ramos <i class="fa fa-github" aria-hidden="true"></i><br /></a>
-							<a href="https://github.com/Andersonpinheirocruz">Anderson Pinheiro <i class="fa fa-github"></i> <br /></a> © COPYRIGHT 2017 - CVMM, TODOS OS DIREITOS RESERVADOS.<br /><a href="https://github.com/RRodrigoRamos/projeti-meta-2017_2"> Repositorio GitHub<img src="img/rodape/github1.png" alt="Repositorio do Projeto"/></a></p>
+						<p>Devenvolvedores:<br /><a href="https://github.com/dutraweslley" target="_blank">Weslley Dutra <i class="fa fa-github" aria-hidden="true"></i><br /></a>
+							<a href="https://github.com/RRodrigoRamos" target="_blank">Rodrigo B. Ramos <i class="fa fa-github" aria-hidden="true"></i><br /></a>
+							<a href="https://github.com/Andersonpinheirocruz" target="_blank">Anderson Pinheiro <i class="fa fa-github"></i> <br /></a> © COPYRIGHT 2017 - CVMM, TODOS OS DIREITOS RESERVADOS.<br /><a href="https://github.com/RRodrigoRamos/projeti-meta-2017_2" target="_blank"> Repositorio GitHub<img src="img/rodape/github1.png" alt="Repositorio do Projeto"/></a></p>
 
 			  </div>
 <span> <a href="#topoSite"> <i class="fa fa-angle-double-up fa-3x" aria-hidden="true"></i></a> </span>

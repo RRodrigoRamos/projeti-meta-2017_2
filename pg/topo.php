@@ -20,6 +20,9 @@
 <body>
 <main class="container-fluid col">	<!-- principal -->
 	<span id="topoSite"> </span><!--botao de subi-->
+	<figure id="topo"> <!-- Logo Menu -->
+        <img src="../img/topo/capa1.png" width="100%" height="100%" class="align-top img-fluid" alt="Compra e Vendo Meio do Mundo">
+      </figure>
 	<header><!-- inicio do Menu -->
   	<nav id="nav" class="navbar navbar-expand-lg navbar-light bg-light">
 			<figure>
@@ -43,20 +46,17 @@
 						</a>
 								<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 									<a class="dropdown-item" href="../pg/login.php"> <i class="fa fa-check" aria-hidden="true"></i> Entra</a>
-									<a class="dropdown-item" href="../pg/cadastro.php"> <i class="fa fa-check-square-o" aria-hidden="true"></i> Cadastro</a>
+									<a class="dropdown-item" href="../pg/cadastro.php" target="_blank"> <i class="fa fa-check-square-o" aria-hidden="true"></i> Cadastro</a>
 								</div>
 					</li>
 				</div>
-				<!-- botao de pesquisa no menu -->
-				<form id="pesquisa" class="form-inline my-lg-0 direita">
-					<input class="form-control col-md-5" type="text" placeholder=" Pesquisa" aria-label="Search">
-						<button class="btn btn-outline-success my-0" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
-				</form>
 			</div>
+			<!-- botao de pesquisa no menu -->
+			<form id="pesquisa" class="form-inline my-lg-0 direita">
+				<input class="form-control col-md-9" type="text" placeholder=" Pesquisar" aria-label="Search">
+					<button class="btn btn-outline-success my-0" type="submit"> &nbsp; <i class="fa fa-search" aria-hidden="true"></i> &nbsp; </button>
+			</form>
 						<!-- icones de rede social -->
 				<span id="icones"> <a href="#"> <i class="fa fa-twitter fa-2x" aria-hidden="true"> </i></a> <a href="#"> <i class="fa fa-facebook-square fa-2x" aria-hidden="true"> </i></a> <a href="#"> <i class="fa fa-instagram fa-2x" aria-hidden="true"> </i> </a> </span>
       </nav> <!-- Fim do Menu -->
-      <figure id="topo"> <!-- Logo Menu -->
-        <img src="../img/topo/capa1.png" width="100%" height="100%" class="align-top img-fluid" alt="Compra e Vendo Meio do Mundo">
-      </figure>
 		</header><!-- Fim topo -->

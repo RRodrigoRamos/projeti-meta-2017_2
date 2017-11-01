@@ -25,8 +25,14 @@
           display: none;
         }
 
+/* tentando controlar o botão quando estiver no mobile */
         .direita {
-        display:none ;
+        display:none!important;
+        width:100%;
+        }
+
+        form#pesquisa {
+          width:50%;
         }
       }
 
@@ -45,8 +51,8 @@
   }*/
 
   .direita {
-    margin-right: 10% !important;
-  display: inline !important;
+    margin-right: 15% !important;
+  display: inline-table !important;
   }
 
 form button:hover {
@@ -81,6 +87,7 @@ form button:hover {
     /*position: fixed !important;
     top:0px !important;
     left:0px !important;*/
+    border-radius:0px 0px 10px 10px;
   }
 
   /*efeitos no menu*/

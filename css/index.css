@@ -58,6 +58,7 @@
 form button:hover {
   text-shadow:1px 1px 20px black;
   font-size:12pt;
+  cursor:pointer;
 
 }
 
@@ -97,6 +98,7 @@ form button:hover {
     color:white !important;
     text-shadow:1px 1px 10px black;
     text-decoration: underline !important;
+    transition: all 0.3s ease-in;
     -webkit-transition: all 0.3s ease-in;
   }
 
@@ -113,10 +115,12 @@ form button:hover {
 /*Controlando o banner de propaganda dos produtos*/
   section{
   	box-sizing:border-box !important;
-  	margin:10px auto !important;
-    width:90% !important;
+  	margin:20px auto !important;
+    width:100% !important;
   	height:100% !important;
   }
+
+
 
 /*controlando conteudo pg-principal*/
   article {
@@ -126,6 +130,7 @@ form button:hover {
     min-height:500px;
     box-shadow: 1px 10px 20px rgba(0, 28, 31, 0.33);
     position: relative;
+     border-radius:0px 0px 10px 10px;
   }
 
   /* Controlando conteudo dos produtos INDEX*/
@@ -136,6 +141,7 @@ form button:hover {
     padding: 10px !important;
     box-shadow: 1px 10px 20px rgba(0, 28, 31, 0.3);
     text-align: center;
+    border-radius:0px 0px 10px 10px;
   }
 /*controlando as imagens dos produtos*/
   div.thumbnail img{

@@ -7,7 +7,21 @@ article#login {
     background-size: cover;
     background-attachment: fixed;
     opacity: 0.8;
+    border-radius:10px;
   }
+
+  article#login button {
+    font-size:12pt !important;
+    opacity: 0.6;
+   }
+
+  article#login button:hover {
+    font-size:13pt;
+    font-weight: bolder;
+    opacity:1;
+    cursor:pointer;
+    -webkit-transition: all 0.3s ease-in;
+   }
 
   article#pg_cadastro {
       width: 80% !important;
@@ -17,6 +31,14 @@ article#login {
       background-attachment: fixed;
       opacity: 0.8;
     }
+    
+  article#pg_cadastro h2 {
+        text-align: center;
+      }
+  article#pg_cadastro form#cadastro button {
+        text-align: center;
+      }
+      
 
 /* ############################## PARA TELAS MOBILE #############################*/
 @media all and (max-width:990px){
@@ -39,6 +61,11 @@ article#login {
 
     article#pg_cadastro {
         width: 100% !important;
+      }
+  
+   article#pg_cadastro h2{
+        font-size:16pt;
+        text-align: center;
       }
 
 /* ########################### paginas diversas #############################*/

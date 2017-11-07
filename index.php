@@ -60,7 +60,7 @@
 				<span id="icones"> <a href="#"> <i class="fa fa-twitter fa-2x" aria-hidden="true"> </i></a> <a href="#"> <i class="fa fa-facebook-square fa-2x" aria-hidden="true"> </i></a> <a href="#"> <i class="fa fa-instagram fa-2x" aria-hidden="true"> </i> </a> </span>
       </nav> <!-- Fim do Menu -->
       <!-- Inicio Topo -->
-      <section id="carousel" class="container-fluid col-sm-10">
+      <section id="carousel" class="container-fluid col-sm-9">
           <div id="carouselExampleIndicators" class="carousel slide " data-ride="carousel">
               <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>

@@ -15,7 +15,7 @@
                 <div class="checkbox"><br />
                   <label> <input type="checkbox" value="remember-me"><b>Me Lembrar Senha !</b> <i class="fa fa-refresh" aria-hidden="true"></i> </label>
                 </div> <br/>
-              <button class="btn btn-md btn-primary btn-block" type="submit">Acessar</button>
+              <button class="btn btn-md btn-primary btn-block" type="submit">ACESSAR</button>
           </form>
     </div>
 </article>

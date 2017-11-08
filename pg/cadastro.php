@@ -147,17 +147,22 @@
 			     	 <input type="text" class="form-control" id="cep" name="cep" placeholder="68.900-000" maxlength="10">
 			    </div>
 			</div>
-			<div class="form-row" id="propagandaEmail">
-			    <div class="form-group col-md-12">	
-			   	 <div class="form-check">
-			   	 OFERTAS <i class="fa fa-bullhorn" aria-hidden="true"></i>
-       				 <label class="form-check-label">
-         					 <input class="form-check-input" type="checkbox" name="receberEmail"> Desejo receber ofertas do <b>cvmeiodomundo.com.br</b> por e-mail
-        			 </label>
-			    </div>
+			<div class="form-row flex-row" id="propagandaEmail">
+				<div class="form-group col-md-4 text-center">
+					<b>OFERTAS </b><i class="fa fa-bullhorn fa-lg" aria-hidden="true"></i>
+			  	</div>
+			    <div class="form-group col-md-8">
+			    <div class="form-check">
+					  <label class="form-check-label">
+					    <input class="form-check-input" type="checkbox" value="">
+					    Desejo receber no meu Email &mdash; Ofertas da cvmeiodomundo.com.br
+					  </label>
+					</div>	
+			  	</div>
 			  </div>
+  			<div class="form-row justify-content-around">
+  				<button type="submit" class="btn btn-primary col-8"> CADASTRAR</button>
   			</div>
-  				<button type="submit" class="btn btn-primary col-md-6">CADASTRAR</button>
 	</form>
       </article>
 <?php include_once("rodape.php");?>

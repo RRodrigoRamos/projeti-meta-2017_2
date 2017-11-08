@@ -36,13 +36,16 @@ article#login {
         text-align: center;
         margin:20px !important; 
       }
-
+/* espaçamento entre os itens do formulario  */
   article#pg_cadastro .form-group {
         margin-top:8px !important; 
         margin-bottom:8px !important; 
       }
-  article#pg_cadastro form#propagandaEmail {
-    background: red !important;
+  article#pg_cadastro form div#propagandaEmail {
+    margin:20px !important;
+    padding:10px;
+    border-radius: 10px;
+    background-color:rgba(0,0,0,0.1) !important;
   }
 
 /* ############################## PARA TELAS MOBILE #############################*/

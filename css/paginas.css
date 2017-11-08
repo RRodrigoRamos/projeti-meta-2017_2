@@ -34,11 +34,16 @@ article#login {
     
   article#pg_cadastro h2 {
         text-align: center;
+        margin:20px !important; 
       }
-  article#pg_cadastro form#cadastro button {
-        text-align: center;
+
+  article#pg_cadastro .form-group {
+        margin-top:8px !important; 
+        margin-bottom:8px !important; 
       }
-      
+  article#pg_cadastro form#propagandaEmail {
+    background: red !important;
+  }
 
 /* ############################## PARA TELAS MOBILE #############################*/
 @media all and (max-width:990px){

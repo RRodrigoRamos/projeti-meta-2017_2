@@ -81,7 +81,7 @@ form button:hover {
   nav {
     width:100% !important;
     box-shadow: 1px 2px 20px black;
-    font-family: 'FontPadrao', sans-serif;
+    font-family: "FontMenu","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-variant: small-caps;
     font-size: 14pt !important;
     z-index:10;
@@ -100,10 +100,15 @@ form button:hover {
 
 /*controle de fonte*/
 @font-face {
-	font-family:"FontPadrao";
-	src:url("../fontstxt/Patua_One/PatuaOne-Regular.ttf");
+	font-family:"FontMenu";
+	src:url("../fontstxt/Exo_2/Exo2-Bold.ttf");
 	}
-  
+
+@font-face {
+	font-family:"FontProduto";
+	src:url("../fontstxt/Exo_2/Exo2-Bold.ttf");
+	}
+
   /*efeitos no menu*/
   nav a:hover {
     background-color:rgba(0,0,100,0.1);
@@ -145,7 +150,7 @@ form button:hover {
 /*controlando conteudo pg-principal*/
   article {
     margin:10px auto !important;
-    padding:20px;
+    padding:10px;
     width:100%;
     min-height:500px;
     box-shadow: 1px 10px 20px rgba(0, 28, 31, 0.33);
@@ -155,14 +160,15 @@ form button:hover {
 
   /* Controlando conteudo dos produtos INDEX*/
   div.thumbnail {
-    margin:20px auto !important;
+    margin:10px auto !important;
     border-left: 1px solid rgba(0, 28, 31, 0.25);
     border-bottom: 1px solid rgba(0, 28, 31, 0.25);
-    padding: 10px !important;
+    padding: 5px !important;
     box-shadow: 1px 10px 20px rgba(0, 28, 31, 0.3);
     text-align: center;
     border-radius:0px 0px 10px 10px;
   }
+
 /*controlando as imagens dos produtos*/
   div.thumbnail img{
     position: relative !important;
@@ -174,10 +180,13 @@ form button:hover {
   div.thumbnail h4{
     font-style: italic;
     text-shadow:1px 5px 20px rgba(41, 39, 37, 0.79)!important;
+    font-family: 'FontProduto',sans-serif;
   }
 
   div.thumbnail p{
     margin:5px !important;
+    font-family:
+
   }
 
 /*rodapé diversos e os icones*/

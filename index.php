@@ -56,7 +56,7 @@
 					<button class="btn btn-outline-success my-0" type="submit"> &nbsp; <i class="fa fa-search" aria-hidden="true"></i> &nbsp; </button>
 			</form>
 						<!-- icones de rede social -->
-				<span id="icones"> <a href="#"> <i class="fa fa-twitter fa-2x" aria-hidden="true"> </i></a> <a href="#"> <i class="fa fa-facebook-square fa-2x" aria-hidden="true"> </i></a> <a href="#"> <i class="fa fa-instagram fa-2x" aria-hidden="true"> </i> </a> </span>
+				<span id="icones"> <a href="#twitter"> <i class="fa fa-twitter fa-2x" aria-hidden="true"> </i></a> <a href="#facebook"> <i class="fa fa-facebook-square fa-2x" aria-hidden="true"> </i></a> <a href="#instagran"> <i class="fa fa-instagram fa-2x" aria-hidden="true"> </i> </a> </span>
       </nav> <!-- Fim do Menu -->
       <!-- Inicio Topo -->
       <section id="carousel" class="container-fluid col-sm-9">
@@ -90,32 +90,46 @@
 		</header><!-- Fim topo -->
 		<article id="conteudo"><!-- inicio conteudo -->
 			<div class="bs-example">
-				<div class="row">
-					<div class="col-sm-6 col-md-4">
+				<div class="row align-items-center">
+					<div class="col-sm-3 col-md-3">
 						<div class="thumbnail">
 							<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/eletrodomestico/3.jpg" data-holder-rendered="true"/>
 						<div class="caption">
-							<h4>Fogão Esmaltec - AutoLimpante</h4>
-							<p>Fogão 5 Bocas - Esmaltec / 2017<br /><b>Preço R$ 800,00</b></p>
-							<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
-									<a href="#" class="btn btn-default" role="button">Adicionar </a>
+							<h4>Fogão Esmaltec AutoLimpante</h4>
+							<p>Fogão 5 Bocas - Esmaltec <br/> 2017 Fogão 5 Bocas - Esmaltec <br />Status: NOVO</p>
+							<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> Preço R$600,000 </b>
+									<a href="#" class="btn btn-outline-dark" role="button">Adicionar </a>
 							</p>
+							<p> <b class="btn btn-outline-success" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> Contato:96 - 99102-9214</b>
+									</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-4">
+				<div class="col-sm-3 col-md-3">
 					<div class="thumbnail">
 						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/eletrodomestico/15.jpg" data-holder-rendered="true"/>
 					<div class="caption">
-						<h4>Refriregador FosterFree - Brastemp</h4>
-						<p>Gelo Seco - Painel digital <br /><b>Preço R$1.500,000</b></p>
-						<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+						<h4>Refriregador Brastemp FosterFree </h4>
+						<p>Gelo Seco - Painel digital</p>
+						<p> <a href="#" class="btn btn-outline-success" role="button">Preço R$1.500,000 </a>
 								<a href="#" class="btn btn-default" role="button">Adicionar </a>
 						</p>
 					</div>
 				</div>
 			</div>
-					<div class="col-sm-6 col-md-4">
+							<div class="col-sm-3 col-md-3">
+								<div class="thumbnail">
+									<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/eletrodomestico/15.jpg" data-holder-rendered="true"/>
+									<div class="caption">
+										<h4>Refriregador FosterFree - Brastemp</h4>
+											<p>Gelo Seco - Painel digital <br /></p>
+											<p> <a href="#" class="btn btn-outline-success" role="button">Preço R$1.500,000 </a>
+												<a href="#" class="btn btn-default" role="button">Adicionar </a>
+								</p>
+							</div>
+						</div>
+						</div>
+					<div class="col-sm-3 col-md-3" class="patrocinio">
 						<div class="thumbnail">
 							<img data-src="holder.js/100%x100" alt="Produto -C&M-"   src="img/rodape/meta.png" data-holder-rendered="true">
 							<div class="caption">
@@ -124,32 +138,45 @@
 							</div>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-sm-6 col-md-4">
+			</div>
+				<div class="row align-items-center">
+					<div class="col-sm-3 col-md-3">
 						<div class="thumbnail">
 							<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/eletronico/1.jpg" data-holder-rendered="true"/>
 						<div class="caption">
 							<h4>Samsung Gran Prime</h4>
-							<p>Pelicula de Vidro / G530 <br /><b> Preço R$ 700,00 </b></p>
-							<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+							<p>Pelicula de Vidro / G530</p>
+							<p> <a href="#" class="btn btn-outline-success" role="button">Preço R$1.500,000 </a>
 									<a href="#" class="btn btn-default" role="button">Adicionar </a>
 							</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-4">
+				<div class="col-sm-3 col-md-3">
 					<div class="thumbnail">
 						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/eletronico/2.jpg" data-holder-rendered="true"/>
 					<div class="caption">
 						<h4>Smartphone LG K10 </h4>
-						<p>Power M320TV / peliculado <br /><b>Preço R$ 1.500,00</b></p>
-						<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+						<p>Power M320TV / peliculado</p>
+						<p> <a href="#" class="btn btn-outline-success" role="button">Preço R$1.500,000 </a>
 								<a href="#" class="btn btn-default" role="button">Adicionar </a>
 						</p>
 					</div>
 				</div>
 			</div>
-					<div class="col-sm-6 col-md-4">
+				<div class="col-sm-3 col-md-3">
+					<div class="thumbnail">
+						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/eletronico/2.jpg" data-holder-rendered="true"/>
+					<div class="caption">
+						<h4>Smartphone LG K10 </h4>
+						<p>Power M320TV / peliculado</p>
+						<p> <a href="#" class="btn btn-outline-success" role="button">Preço R$1.500,000 </a>
+								<a href="#" class="btn btn-default" role="button">Adicionar </a>
+						</p>
+					</div>
+				</div>
+			</div>
+					<div class="col-sm-3 col-md-3" class="patrocinio">
 						<div class="thumbnail">
 							<img data-src="holder.js/100%x100" alt="Produto -C&M-"   src="img/patrocinio/garden.png" data-holder-rendered="true">
 							<div class="caption">
@@ -158,32 +185,45 @@
 							</div>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-sm-6 col-md-4">
+			</div>
+				<div class="row align-items-center">
+					<div class="col-sm-3 col-md-3">
 						<div class="thumbnail">
 							<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/automotivo/15.jpg" data-holder-rendered="true"/>
 						<div class="caption">
 							<h4>Honda BROS - 125cc</h4>
-							<p>5 Machas / Tanque 15l<br />Preço R$5.800,00</p>
-							<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+							<p>5 Machas / Tanque 15l</p>
+							<p> <a href="#" class="btn btn-outline-success" role="button">Preço R$1.500,000 </a>
 									<a href="#" class="btn btn-default" role="button">Adicionar </a>
 							</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-4">
+				<div class="col-sm-3 col-md-3">
 					<div class="thumbnail">
 						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/automotivo/8.jpg" data-holder-rendered="true"/>
 					<div class="caption">
 						<h4>Gol - SpaceFox G5</h4>
-						<p>Cambio Automatico 5V /3 Airbag <br />Preço R$ 25.500,00)</p>
-						<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
+						<p>Cambio Automatico 5V /3 Airbag</p>
+						<p> <a href="#" class="btn btn-outline-success" role="button">Preço R$1.500,000 </a>
 								<a href="#" class="btn btn-default" role="button">Adicionar </a>
 						</p>
 					</div>
 				</div>
 			</div>
-					<div class="col-sm-6 col-md-4">
+				<div class="col-sm-3 col-md-3">
+					<div class="thumbnail">
+						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="img/categorias/anuncios/automotivo/8.jpg" data-holder-rendered="true"/>
+					<div class="caption">
+						<h4>Gol - SpaceFox G5</h4>
+						<p>Cambio Automatico 5V /3 Airbag </p>
+						<p> <a href="#" class="btn btn-outline-success" role="button">Preço R$1.500,000 </a>
+								<a href="#" class="btn btn-default" role="button">Adicionar </a>
+						</p>
+					</div>
+				</div>
+			</div>
+					<div class="col-sm-3 col-md-3">
 						<div class="thumbnail">
 							<img data-src="holder.js/100%x100" alt="Produto -C&M-"   src="img/patrocinio/sanalucia.jpg" data-holder-rendered="true">
 						<div class="caption">
@@ -194,8 +234,6 @@
 				</div>
 				</div>
 			</div>
-		</div>
-	</div>
 		</article><!-- fim conteudo -->
 		<footer> <!-- inicio rodape -->
 					<div class="dev">

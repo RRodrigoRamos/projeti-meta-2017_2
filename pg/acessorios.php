@@ -5,37 +5,55 @@
         </section>
     <article id ="pg_acessorio">
          <div class="bs-example">
-           <div class="row">
-   					<div class="col-sm-6 col-md-4">
-   						<div class="thumbnail">
-   							<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/acessorio/4.jpg" data-holder-rendered="true"/>
-   						<div class="caption">
-   							<h4>Pulseira de Couro</h4>
-   							<p>Com Detalhes em Aço<br /><b>Preço R$ 10,00 </b></p>
-   							<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
-   									<a href="#" class="btn btn-default" role="button">Adicionar </a>
-   							</p>
-   						</div>
-   					</div>
-   				</div>
-   				<div class="col-sm-6 col-md-4">
-   					<div class="thumbnail">
-   						<img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/acessorio/6.jpg" data-holder-rendered="true"/>
-   					<div class="caption">
-   						<h4>Pulsa em Couro - Âncora</h4>
-   						<p>Detalhe Brilhante / Âncora <br /><b>Preço R$25,00</b></p>
-   						<p> <a href="#" class="btn btn-primary" role="button">Comprar Agora </a>
-   								<a href="#" class="btn btn-default" role="button">Adicionar </a>
-   						</p>
-   					</div>
-   				</div>
-   			</div>
-   					<div class="col-sm-6 col-md-4">
-   						<div class="thumbnail">
+           <div class="row align-items-center">
+           <div class="col-sm-3 col-md-3">
+            <div class="thumbnail">
+              <img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/acessorio/4.jpg" data-holder-rendered="true"/>
+            <div class="caption">
+              <h4>Pulseira de Couro</h4>
+              <p>Com Detalhes em Aço <br/> <b>Estado: NOVO</b></p>
+              <p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> Preço R$ 50,000 </b>
+                  <a href="#" class="btn btn-outline-dark" role="button">Adicionar </a>
+              </p>
+              <p> <b class="btn btn-outline-success" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> Contato:96 - 99902-0202 </b>
+                  </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3 col-md-3">
+            <div class="thumbnail">
+              <img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/acessorio/6.jpg" data-holder-rendered="true"/>
+            <div class="caption">
+              <h4>Pulseira em Couro Âncora</h4>
+              <p>Detalhe Brilhante / Âncora <br/> <b>Estado: NOVO</b></p>
+              <p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> Preço R$ 20,000 </b>
+                  <a href="#" class="btn btn-outline-dark" role="button">Adicionar </a>
+              </p>
+              <p> <b class="btn btn-outline-success" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> Contato:96 - 99111-2212 </b>
+                  </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3 col-md-3">
+            <div class="thumbnail">
+              <img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/acessorio/7.jpg" data-holder-rendered="true"/>
+            <div class="caption">
+              <h4>Pulseira e Cruz </h4>
+              <p>Detalhe em Aço Envelhecido <br/> <b>Estado: USADO</b></p>
+              <p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> Preço R$ 10,000 </b>
+                  <a href="#" class="btn btn-outline-dark" role="button">Adicionar </a>
+              </p>
+              <p> <b class="btn btn-outline-success" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> Contato:96 - 99111-2212 </b>
+                  </p>
+            </div>
+          </div>
+        </div>
+   					<div class="col-sm-3 col-md-3">
+   						<div class="thumbnail ">
    							<img data-src="holder.js/100%x100" alt="Produto -C&M-"   src="../img/rodape/meta.png" data-holder-rendered="true">
    							<div class="caption">
    								<h5>Patrocinador</h5>
-   								<p><a href="http://www.meta.edu.br/faculdade/" class="btn btn-secondary" role="button">Site Institucional</a></p>
+   								<p><a href="http://www.meta.edu.br/faculdade/" class="btn btn-outline-secondary" role="button">Site Institucional</a></p>
    							</div>
    					</div>
    				</div>

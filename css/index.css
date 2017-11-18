@@ -34,7 +34,14 @@
         form#pesquisa {
           width:50%;
         }
-      }
+
+         footer#rodape div#fundoRodape {
+          position:absolute;
+           top:-12% !important;
+          left:0px;
+          height:100px !important;
+         }
+       }
 
   @media all and (min-width:767px ){
       #topo{
@@ -81,7 +88,7 @@ form button:hover {
   nav {
     width:100% !important;
     box-shadow: 1px 2px 20px black;
-    font-family: "FontMenu","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "FontMenu", Arial, sans-serif;
     font-variant: small-caps;
     font-size: 14pt !important;
     z-index:10;
@@ -90,6 +97,7 @@ form button:hover {
     top:0px !important;
     left:0px !important;*/
     border-radius:0px 0px 10px 10px;
+    position:relative;
   }
 
   nav a {
@@ -108,6 +116,12 @@ form button:hover {
 	font-family:"FontProduto";
 	src:url("../fontstxt/Exo_2/Exo2-Bold.ttf");
 	}
+
+@font-face {
+  font-family:"TxtLight";
+  src:url("../fontstxt/Exo_2/Exo2-Light.ttf");
+  }
+
 
   /*efeitos no menu*/
   nav a:hover {
@@ -143,6 +157,7 @@ form button:hover {
   	margin:20px auto !important;
     width:100% !important;
   	height:100% !important;
+    position:relative;
   }
 
 
@@ -178,30 +193,69 @@ form button:hover {
   }
 /*estilizando o titulo dos produtos*/
   div.thumbnail h4{
-    font-style: italic;
+    /* font-style: italic; */
     text-shadow:1px 5px 20px rgba(41, 39, 37, 0.79)!important;
     font-family: 'FontProduto',sans-serif;
   }
 
   div.thumbnail p{
     margin:5px !important;
-    font-family:
-
+    font-family:'TxtLight',sans-serif;
+    font-size:12pt !important;
   }
 
-/*rodapé diversos e os icones*/
-  footer {
-    width:100%;
-    /*min-height:80px;*/
-    height: auto;
-    margin:10px auto !important;
-    text-align:center;
-    /*background: red; /* Efeito de Gradiente no Rodapé */ /*
-    background: -webkit-linear-gradient(bottom, rgba(0,0,0,0), rgba(0,0,0,1));
-    background: -o-linear-gradient(bottom, rgba(0,0,0,0), rgba(0,0,0,1));
-    background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,1));
-  }*/}
+/* ############################### Rodapé diversos e os icones ##########################*/
+  footer#rodape {
+    width:100% !important;
+    min-height:200px;
+    margin-top:225px !important;
+    background-color:#0B6C99 !important;
+    border-radius:10px 10px 0px 0px;
+    padding:5px;
+    position: relative;
+    color: white;
+  }
 
+  footer#rodape .imgRodape{
+    width:40px;
+    height:40px;
+  }
+
+  footer#rodape a,h5{
+    color: rgba(255, 255, 255, 0.5);
+  }
+
+   footer#rodape a:hover,h5:hover{
+    color: rgba(255, 255, 255, 1);
+  }
+
+
+  footer#rodape ul {
+    width:100% !important;
+    margin-top: 20px !important;
+  }
+
+footer#rodape ul li {
+    width:100% !important;
+    margin-top:5px !important;
+    text-align:left;
+    list-style: none;
+  }
+
+ footer#rodape div#fundoRodape {
+    width:100%;
+    height:200px;
+    position:absolute;
+    top: -200px;
+    left:0px;
+    background: url("../img/rodape/fundo_rodape.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: scroll;
+    z-index:999;
+  }
+
+/* subiAotopo */
   footer span a {
     position:fixed;
     right:30px;
@@ -233,36 +287,10 @@ form button:hover {
 /* estilizando o rodapé */
   footer, p{
     margin:20px;
-    font-family: 'Noto Serif', serif;
+    font-family: 'FontProduto', serif;
     font-size: 10pt !important;
     text-align: center;
   }
-  footer div.rodapeIcons {
-    width:25%;
-    height:auto;
-    float:right !important;
-    text-align: right;
-    /*background-color: rgba(107, 86, 203, 0.48);*/
-  }
-
-  footer div.dev {
-    width:25% !important;
-    vertical-align: middle!important;
-    float:left !important;
-    /*background-color: rgba(107, 86, 23, 0.48);*/
-  }
-
-  footer div.centroInfor {
-    width: 50%;
-    height: auto;
-    float:right !important;
-    /*background-color: rgba(107, 186, 203, 0.48);*/
-  }
-
-  footer div.centroInfor img {
-    width:40px !important;
-  }
-
 
 /*trabalhando com os icones*/
   .socialIcons li {

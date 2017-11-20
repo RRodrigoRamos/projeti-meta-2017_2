@@ -32,7 +32,7 @@
         <li>
           <i class="fa fa-github" aria-hidden="true"></i> <a href="https://github.com/RRodrigoRamos" target="_blank"> Rodrigo B. Ramos </a>
         </li>
-        <li>
+        <li class="text-center">
           <i class="fa fa-copyright" aria-hidden="true"></i> COPYRIGHT 2017 - CVMM, TODOS OS DIREITOS RESERVADOS.<br /><a href="https://github.com/RRodrigoRamos/projeti-meta-2017_2" target="_blank"> Repositorio GitHub</a> <i class="fa fa-github-alt" aria-hidden="true"></i></p>
         </li>
       </ul>

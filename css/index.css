@@ -198,6 +198,11 @@ form button:hover {
     font-family: 'FontProduto',sans-serif;
   }
 
+  div.thumbnail h5{
+    font-style: italic;
+    color: black;
+  }
+
   div.thumbnail p{
     margin:5px !important;
     font-family:'TxtLight',sans-serif;

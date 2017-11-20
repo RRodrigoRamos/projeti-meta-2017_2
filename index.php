@@ -97,7 +97,7 @@
 						<div class="caption">
 							<h4>Fogão Esmaltec AutoLimpante</h4>
 							<p>Fogão 5 Bocas - Esmaltec 2017 <br/> <b>Estado: NOVO</b></p>
-							<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> Preço R$ 600,000 </b>
+							<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> R$ 600,000 </b>
 									<a href="#" class="btn btn-outline-dark" role="button">Adicionar </a>
 							</p>
 							<p> <b class="btn btn-outline-success" role="button"><i class="fa 	fa-whatsapp" aria-hidden="true"></i> Contato:96 - 99102-9214</b>
@@ -125,7 +125,7 @@
 							<div class="caption">
 								<h4>TV 32" Samsung</h4>
 								<p>DigitalTV / HDMI / USB / Som Stereo<br/> <b>Estado: NOVO</b></p>
-								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> Preço R$ 950,000 </b>
+								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> R$ 950,000 </b>
 										<a href="#" class="btn btn-outline-dark" role="button">Adicionar </a>
 								</p>
 								<p> <b class="btn btn-outline-success" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> Contato:96 - 98100-2000</b>
@@ -150,7 +150,7 @@
 							<div class="caption">
 								<h4>Samsung Gran Prime</h4>
 								<p>Pelicula de Vidro / G530 / Capinha Black / Wi-FI / 4G<br/> <b>Estado: COM MARCAS DE USO</b></p>
-								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> Preço R$ 450,000 </b>
+								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> R$ 450,000 </b>
 										<a href="#" class="btn btn-outline-dark" role="button">Adicionar </a>
 								</p>
 								<p> <b class="btn btn-outline-success" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> Contato:96 - 99100-2099</b>
@@ -164,7 +164,7 @@
 						<div class="caption">
 								<h4>Smartphone LG K10</h4>
 								<p>Power M320TV / peliculado / 4G - 3 de RAM - 32 Gigas<br/> <b>Estado: SEMI-NOVO</b></p>
-								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> Preço R$ 850,000 </b>
+								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> R$ 850,000 </b>
 										<a href="#" class="btn btn-outline-dark" role="button">Adicionar </a>
 								</p>
 								<p> <b class="btn btn-outline-success" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> Contato:96 - 99188-0097</b>
@@ -178,7 +178,7 @@
 						<div class="caption">
 								<h4> MiniSystem - PHILCO</h4>
 								<p>Som Sterio - Conexão Bluetooth - USB<br/> <b>Estado: USADO</b></p>
-								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> Preço R$ 250,000 </b>
+								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> R$ 250,000 </b>
 										<a href="#" class="btn btn-outline-dark" role="button">Adicionar </a>
 								</p>
 								<p> <b class="btn btn-outline-success" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> Contato:96 - 9102-0097</b>
@@ -203,7 +203,7 @@
 						<div class="caption">
 								<h4> Honda BROS - 160cc</h4>
 								<p>5 Machas / Tanque 15l / Partida Elétrica - Com Alarme <br/> <b>Estado: 10.000km RODADO</b></p>
-								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> Preço R$4.500,00 </b>
+								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> R$ 4.500,00 </b>
 										<a href="#" class="btn btn-outline-dark" role="button">Adicionar </a>
 								</p>
 								<p> <b class="btn btn-outline-success" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> Contato:96 - 9012-1122</b>
@@ -217,7 +217,7 @@
 						<div class="caption">
 								<h4>Gol - SpaceFox G5</h4>
 								<p>Cambio Automatico 5V / 3 Airbag / IPVA 2017 Quitado 20/30 Parcelas Quitadas <br/> <b>Estado: 30.000km RODADO</b></p>
-								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i>PreçoR$20.500,00 </b>
+								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> R$ 20.500,00 </b>
 										<a href="#" class="btn btn-outline-dark" role="button">Adicionar </a>
 								</p>
 								<p> <b class="btn btn-outline-success" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> Contato:96 - 9011-0022</b>
@@ -231,7 +231,7 @@
 						<div class="caption">
 								<h4> Renalt - SANDERO/2017</h4>
 								<p>Cambio Automatico / Airbag / IPVA 2017 Quitado <br/> <b>Estado: 10.000km RODADO</b></p>
-								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i>PreçoR$30.000,00 </b>
+								<p> <b class="btn btn-outline-primary" role="button"> <i class="fa fa-money" aria-hidden="true"></i> R$ 30.000,00 </b>
 										<a href="#" class="btn btn-outline-dark" role="button">Adicionar </a>
 								</p>
 								<p> <b class="btn btn-outline-success" role="button"><i class="fa fa-whatsapp" aria-hidden="true"></i> Contato:96 - 9091-9022</b>
@@ -285,7 +285,7 @@
 				<li>
 					<i class="fa fa-github" aria-hidden="true"></i> <a href="https://github.com/RRodrigoRamos" target="_blank"> Rodrigo B. Ramos </a>
 				</li>
-				<li>
+				<li class="text-center">
 					<i class="fa fa-copyright" aria-hidden="true"></i> COPYRIGHT 2017 - CVMM, TODOS OS DIREITOS RESERVADOS.<br /><a href="https://github.com/RRodrigoRamos/projeti-meta-2017_2" target="_blank"> Repositorio GitHub</a> <i class="fa fa-github-alt" aria-hidden="true"></i></p>
 				</li>
 			</ul>

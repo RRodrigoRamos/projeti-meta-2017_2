@@ -157,6 +157,8 @@ section#topoAcessorio {
   box-shadow:1px 2px 20px black;
   border-radius:50px;
   opacity:0.6;
+  font-family: "FontMenu", Arial, sans-serif;
+  font-variant: small-caps;
 }
 
 /*topo pagina automotivos*/
@@ -171,6 +173,8 @@ section#topoAutomotivo {
   box-shadow:1px 2px 20px black;
   border-radius:50px;
   opacity:0.6;
+  font-family: "FontMenu", Arial, sans-serif;
+  font-variant: small-caps;
 }
 /*topo pagina Eletrônicos*/
 section#topoEletronico {
@@ -184,6 +188,8 @@ section#topoEletronico {
   box-shadow:1px 2px 20px black;
   border-radius:50px;
   opacity:0.6;
+  font-family: "FontMenu", Arial, sans-serif;
+  font-variant: small-caps;
 }
 /*topo pagina EletroDomesticos*/
 section#topoEletrodomestico {
@@ -197,6 +203,8 @@ section#topoEletrodomestico {
   box-shadow:1px 2px 20px black;
   border-radius:50px;
   opacity:0.6;
+  font-family: "FontMenu", Arial, sans-serif;
+  font-variant: small-caps;
 }
 /*topo pagina EletroDomesticos*/
 section#pg_imoveis {
@@ -210,6 +218,8 @@ section#pg_imoveis {
   box-shadow:1px 2px 20px black;
   border-radius:50px;
   opacity:0.6;
+  font-family: "FontMenu", Arial, sans-serif;
+  font-variant: small-caps;
 }
 
 section#topoAcessorio:hover,section#topoAutomotivo:hover,section#topoEletronico:hover,section#topoEletrodomestico:hover, section#pg_imoveis:hover{

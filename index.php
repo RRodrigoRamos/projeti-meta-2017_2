@@ -252,7 +252,7 @@
 			</div>
 		</article><!-- fim conteudo -->
 		
-	<footer id="rodape" class="row" > <!-- inicio rodape -->
+	<footer id="rodape" class="row"> <!-- inicio rodape -->
 		<div id="fundoRodape">
 			<!-- icone do rodape em destaque -->
 		</div>
@@ -303,12 +303,13 @@
 				</li>
 			</ul>
 	   </div>
-<span><a href="#topoSite"><i class="fa fa-angle-double-up fa-3x" aria-hidden="true"></i></a> </span>
+<span><a id="scrollUp" href="#topoSite" title="Scroll to top"><i class="fa fa-angle-double-up fa-3x" aria-hidden="true"></i></a> </span>
 		</footer><!--Fim Rodapé -->
 </main>
 	<script src="js/jquery-3.2.1.slim.min.js"></script>
   <script src="js/popper.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
 	<script src="js/config.js"></script>
+	<script src="js/jquery.scrollUp.min.js"></script>
 </body>
 </html>

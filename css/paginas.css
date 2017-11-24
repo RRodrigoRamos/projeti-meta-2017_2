@@ -46,7 +46,7 @@ article#pg_contato {
 /*Area de contato Envie sua mensagem*/
 article#pg_cadEmail {
     width: 80% !important;
-    min-height:200px !important;
+    min-height:180px !important;
     background: url("../img/fundos/cadEmail.jpg");
     background-repeat: no-repeat;
     background-size:cover;
@@ -293,8 +293,8 @@ section#pg_contato {
 
 section#pg_cadEmail {
   width:100%;
-  min-height:200px;
-  padding:50px;
+  min-height:150px;
+  padding:20px;
   background-image:url("../img/rodape/email1.png");
   background-repeat: no-repeat;
   background-size:30%;

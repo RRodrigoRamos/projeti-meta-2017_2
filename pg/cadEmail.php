@@ -1,8 +1,8 @@
 <?php require_once("topo.php");?>
 <section id="pg_cadEmail">
-  <h2> <i class="fa fa-bullhorn fa-3x" aria-hidden="true"></i>
+  <h3> <i class="fa fa-bullhorn fa-3x" aria-hidden="true"></i>
     CADASTRA-SE<br/>FIQUE POR DENTRO DAS NOVAS OFERTAS !
-  </h2>
+  </h3>
 </section>
 <article id ="pg_cadEmail" class="row justify-content-center">
   <form id="contato" class="form-signin col-md-8" action="../bd/cadastrarEmail.php" method="POST">
@@ -10,6 +10,7 @@
         Cadastra-se
       </h2>
       <div class="form-group">
+        <br/>
         <label for="email">
           Email:
         </label>
@@ -18,6 +19,7 @@
             Nós nunca compartilharemos seu email com ninguém!.
         </small>
       </div>
+      <br/>
     <button type="submit" class="btn btn-outline-success">CADASTRAR EMAIL</button>
 </form>
 </article>

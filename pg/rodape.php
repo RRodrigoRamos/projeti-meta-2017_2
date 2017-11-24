@@ -24,7 +24,7 @@
 			</li>
 			<li>
 				<i class="fa fa-bullhorn" aria-hidden="true"></i>
-				<a href="../pg/cademail.php" target="_blank">
+				<a href="../pg/cadEmail.php" target="_blank">
 					Fique por dentro - Cadastrar Email
 				</a>
 			</li>

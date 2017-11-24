@@ -12,13 +12,13 @@
 			</li>
 			<li>
 				<i class="fa fa-sign-in" aria-hidden="true"></i>
-				<a href="./pg/login.php">
+				<a href="../pg/login.php">
 					Entrar
 				</a>
 			</li>
 			<li>
 				<i class="fa fa-check-square-o" aria-hidden="true"></i>
-				<a href="./pg/cadastro.php" target="_blank">
+				<a href="../pg/cadastro.php" target="_blank">
 					Cadastro
 				</a>
 			</li>

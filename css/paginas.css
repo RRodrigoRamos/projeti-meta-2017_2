@@ -1,4 +1,4 @@
-/* ########################### Pagina de LOGIN #######################*/
+  /* ########################### Pagina de LOGIN #######################*/
 article#login {
     width: 80% !important;
     min-height: 400px !important;
@@ -10,13 +10,67 @@ article#login {
     border-radius:10px;
   }
 
-  article#login button {
-    font-size:12pt !important;
-    opacity: 0.6;
-   }
+article#siteUser {
+    width:100% !important;
+    min-height: 400px !important;
+    /*background: url("../img/fundos/2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;*/
+    opacity: 0.9;
+    border-radius:10px;
+  }
+
+/*Area de contato Envie sua mensagem*/
+article#pg_contato {
+    width: 80% !important;
+    min-height: 400px !important;
+    background: url("../img/fundos/fundoContato.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius:10px;
+    margin:10px;
+    padding:20px !important;
+  }
+
+  /*formulario do contato*/
+  article#pg_contato form {
+    opacity: 0.95;
+    background-color: white;
+    min-height:300px !important;
+    border-radius:10px;
+    padding:30px;
+    font-weight: bolder;
+  }
+
+/*Area de contato Envie sua mensagem*/
+article#pg_cadEmail {
+    width: 80% !important;
+    min-height:200px !important;
+    background: url("../img/fundos/cadEmail.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius:10px;
+    margin:10px;
+    padding:20px !important;
+  }
+  /*formulario do cadastro de email*/
+  article#pg_cadEmail form {
+    opacity: 0.7;
+    background-color: white;
+    min-height:100px !important;
+    border-radius:10px;
+    padding:30px;
+    font-weight: bolder;
+  }
+
+
+article#pg_contato .form-group {
+  margin:10px !important;
+  }
+
 
   article#login button:hover {
-    font-size:13pt;
     font-weight: bolder;
     opacity:1;
     cursor:pointer;
@@ -31,15 +85,15 @@ article#login {
       background-attachment: fixed;
       opacity: 0.8;
     }
-    
+
   article#pg_cadastro h2 {
         text-align: center;
-        margin:20px !important; 
+        margin:20px !important;
       }
 /* espaçamento entre os itens do formulario  */
   article#pg_cadastro .form-group {
-        margin-top:8px !important; 
-        margin-bottom:8px !important; 
+        margin-top:8px !important;
+        margin-bottom:8px !important;
       }
   article#pg_cadastro form div#propagandaEmail {
     margin:20px !important;
@@ -70,7 +124,7 @@ article#login {
     article#pg_cadastro {
         width: 100% !important;
       }
-  
+
    article#pg_cadastro h2{
         font-size:16pt;
         text-align: center;
@@ -222,7 +276,42 @@ section#pg_imoveis {
   font-variant: small-caps;
 }
 
-section#topoAcessorio:hover,section#topoAutomotivo:hover,section#topoEletronico:hover,section#topoEletrodomestico:hover, section#pg_imoveis:hover{
+section#pg_contato {
+  width:100%;
+  min-height:200px;
+  padding:50px;
+  background-image:url("../img/rodape/email.png");
+  background-repeat: no-repeat;
+  background-size:30%;
+  background-position:100% 50%;
+  box-shadow:1px 2px 20px black;
+  border-radius:50px;
+  opacity:0.6;
+  font-family: "FontMenu", Arial, sans-serif;
+  font-variant: small-caps;
+}
+
+section#pg_cadEmail {
+  width:100%;
+  min-height:200px;
+  padding:50px;
+  background-image:url("../img/rodape/email1.png");
+  background-repeat: no-repeat;
+  background-size:30%;
+  background-position:100% 50%;
+  box-shadow:1px 2px 20px black;
+  border-radius:50px;
+  opacity:0.8;
+  font-family: "FontMenu", Arial, sans-serif;
+  font-variant: small-caps;
+  color:blue;
+}
+
+section#cadastro div#cadastro {
+    z-index:9999 !important;
+  }
+
+section#topoAcessorio:hover, section#pg_cadEmail, section#topoAutomotivo:hover,section#topoEletronico:hover,section#topoEletrodomestico:hover, section#pg_imoveis:hover, section#pg_contato{
   color:green;
   opacity:1;
 }

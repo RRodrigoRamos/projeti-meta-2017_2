@@ -8,7 +8,7 @@
           <div class="row align-items-center">
            <div class="col-sm-3 col-md-3">
             <div class="thumbnail">
-              <img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/imovel/1.png" data-holder-rendered="true"/>
+              <img data-src="holder.js/100%x100" alt="Produto -CM-"  src="../img/categorias/anuncios/imovel/1.png" data-holder-rendered="true"/>
                 <div class="caption">
                     <h4>Residencial Morada das Palmeiras</h4>
                        <p>3 Quartos / 1 Suite / Banheiros / Garagem  para 2 Carros <br/> <b>Localização: Residencial Palmeiras km 03 DUCA SERRA </b></p>
@@ -22,7 +22,7 @@
         </div>
         <div class="col-sm-3 col-md-3">
             <div class="thumbnail">
-              <img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/imovel/2.jpg" data-holder-rendered="true"/>
+              <img data-src="holder.js/100%x100" alt="Produto -CM-"  src="../img/categorias/anuncios/imovel/2.jpg" data-holder-rendered="true"/>
                 <div class="caption">
                   <h4> Residencial 2 Andares</h4>
                    <p> 4 Quartos / 2 Suites / banheiros / Garagem / Area externas <br/> <b>Localização: Loteamento AMAZONAS </b></p>
@@ -36,7 +36,7 @@
         </div>
         <div class="col-sm-3 col-md-3">
             <div class="thumbnail">
-               <img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/imovel/12.jpg" data-holder-rendered="true"/>
+               <img data-src="holder.js/100%x100" alt="Produto -CM-"  src="../img/categorias/anuncios/imovel/12.jpg" data-holder-rendered="true"/>
                 <div class="caption">
                   <h4>Residencial RAMOS </h4>
                   <p>2 Quartos / 1 Suite / Banheiros / Garagem / Quintal / Murada <br/> <b>Localização: Loteamento Ramos BURITZAL</b></p>
@@ -50,7 +50,7 @@
         </div>
             <div class="col-sm-3 col-md-3">
               <div class="thumbnail ">
-                <img data-src="holder.js/100%x100" alt="Produto -C&M-"   src="../img/patrocinio/centerkennedy.png" data-holder-rendered="true">
+                <img data-src="holder.js/100%x100" alt="Produto -CM-"   src="../img/patrocinio/centerkennedy.png" data-holder-rendered="true">
                 <div class="caption">
                   <h5>Patrocinador</h5>
                   <p><a href="http://centerkennedy.com.br" target="_blank" class="btn btn-outline-secondary" role="button">Site</a></p>
@@ -61,7 +61,7 @@
     <div class="row align-items-center">
            <div class="col-sm-3 col-md-3">
             <div class="thumbnail">
-              <img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/imovel/36.jpg" data-holder-rendered="true"/>
+              <img data-src="holder.js/100%x100" alt="Produto -CM-"  src="../img/categorias/anuncios/imovel/36.jpg" data-holder-rendered="true"/>
                 <div class="caption">
                     <h4> Sitio Boa Vida</h4>
                        <p>2 Alojamentos / 20 Quartos / 2 Suites / banheiros / Area de Lazer / Campo de Futebol / Piscina  <br/> <b>Localização: km 51 - BR 156 </b></p>
@@ -75,7 +75,7 @@
         </div>
         <div class="col-sm-3 col-md-3">
             <div class="thumbnail">
-              <img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/imovel/21.jpg" data-holder-rendered="true"/>
+              <img data-src="holder.js/100%x100" alt="Produto -CM-"  src="../img/categorias/anuncios/imovel/21.jpg" data-holder-rendered="true"/>
                 <div class="caption">
                   <h4> Apartamentos Villa Nova</h4>
                    <p> 2 Quartos / 1 Suites / banheiros / Garagem Interna 1 Carro MENSALIDADE A COMBINAR<br/> <b>Localização: Bairro CENTRAL </b></p>
@@ -89,7 +89,7 @@
         </div>
         <div class="col-sm-3 col-md-3">
             <div class="thumbnail">
-               <img data-src="holder.js/100%x100" alt="Produto -C&M-"  src="../img/categorias/anuncios/imovel/20.jpg" data-holder-rendered="true"/>
+               <img data-src="holder.js/100%x100" alt="Produto -CM-"  src="../img/categorias/anuncios/imovel/20.jpg" data-holder-rendered="true"/>
                 <div class="caption">
                   <h4>Apartamentos IMOPRATA </h4>
                   <p>2 Quartos / 1 Suite / 1 Banheiro / Garagem Interna / MENSALIDADE NEGOCIAVEL <br/> <b>Localização: Bairro GONGOS</b></p>
@@ -103,7 +103,7 @@
         </div>
             <div class="col-sm-3 col-md-3">
               <div class="thumbnail ">
-                <img data-src="holder.js/100%x100" alt="Produto -C&M-"   src="../img/patrocinio/garden1.png" data-holder-rendered="true">
+                <img data-src="holder.js/100%x100" alt="Produto -CM-"   src="../img/patrocinio/garden1.png" data-holder-rendered="true">
                 <div class="caption">
                   <h5>Patrocinador</h5>
                   <p><a href="https://amapagardenshopping.com.br/" target="_blank" class="btn btn-outline-secondary" role="button">Site</a></p>
